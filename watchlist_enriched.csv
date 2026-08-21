@@ -1,0 +1,163 @@
+Ticker,ROIC_Symbol,Sector,Industry,Name,Strategy,Active
+ABBV,NYSE:ABBV,Health technology,Pharmaceuticals: major,AbbVie Inc.,Core,True
+ABEV,NYSE:ABEV,Consumer non-durables,Beverages: alcoholic,Ambev SA,Core,True
+ABNB,NASDAQ:ABNB,Consumer services,Hotels/Resorts/Cruise lines,"Airbnb, Inc.",Core,True
+ADBE,NASDAQ:ADBE,Technology services,Packaged software,Adobe Inc.,Core,True
+AMD,NASDAQ:AMD,Electronic technology,Semiconductors,"Advanced Micro Devices, Inc.",Core,True
+AMT,NYSE:AMT,Finance,Real estate investment trusts,American Tower Corporation (REIT),Core,True
+AMZN,NASDAQ:AMZN,Retail trade,Internet retail,"Amazon.com, Inc.",Core,True
+ARRY,NASDAQ:ARRY,Producer manufacturing,Electrical products,"Array Technologies, Inc.",Core,True
+ASML,NASDAQ:ASML,Electronic technology,Semiconductors,ASML Holding NV,Core,True
+ASTS,NASDAQ:ASTS,Communications,Specialty telecommunications,"AST SpaceMobile, Inc.",Core,True
+BA,NYSE:BA,Electronic technology,Aerospace & defense,Boeing Company (The),Core,True
+BABA,NYSE:BABA,Retail trade,Internet retail,Alibaba Group Holding Limited,Core,True
+BAX,NYSE:BAX,Health technology,Medical specialties,Baxter International Inc.,Core,True
+BHP,NYSE:BHP,Non-energy minerals,Steel,BHP Group Ltd,Core,True
+BIDU,NYSE:BIDU,Technology services,Internet media,,Core,True
+BKNG,NASDAQ:BKNG,Consumer services,Other consumer services,Booking Holdings Inc. Common Stock,Core,True
+BMY,NYSE:BMY,Health technology,Pharmaceuticals: major,Bristol-Myers Squibb Company,Core,True
+BN,NYSE:BN,Finance,Investment managers,Brookfield Corporation,Core,True
+BSX,NYSE:BSX,Health technology,Medical specialties,Boston Scientific Corporation,Core,True
+CAKE,NYSE:CAKE,Consumer services,Restaurants,,Core,True
+CAT,NYSE:CAT,Producer manufacturing,Trucks/Construction/Farm machinery,"Caterpillar, Inc.",Core,True
+CELH,NASDAQ:CELH,Consumer non-durables,Beverages: non-alcoholic,"Celsius Holdings, Inc.",Core,True
+CLF,NYSE:CLF,Non-energy minerals,Steel,Cleveland-Cliffs Inc.,Core,True
+CMG,NYSE:CMG,Consumer services,Restaurants,"Chipotle Mexican Grill, Inc.",Core,True
+CNC,NYSE:CNC,Health services,Managed health care,Centene Corporation,Core,True
+COIN,NASDAQ:COIN,Finance,Investment banks/Brokers,"Coinbase Global, Inc.",Core,True
+COST,NYSE:COST,Retail trade,Discount chains,,Core,True
+CRCL,NASDAQ:CRCL,Health technology,Medical appliances,,Core,True
+CRM,NYSE:CRM,Technology services,Packaged software,"Salesforce, Inc.",Core,True
+CROX,NASDAQ:CROX,Consumer non-durables,Apparel/Footwear,"Crocs, Inc.",Core,True
+CVS,NYSE:CVS,Retail trade,Drugstore chains,CVS Health Corporation,Core,True
+CVX,NYSE:CVX,Energy minerals,Integrated oil,Chevron Corporation,Core,True
+DAVA,NASDAQ:DAVA,Technology services,Data processing services,,Core,True
+DE,NYSE:DE,Producer manufacturing,Trucks/Construction/Farm machinery,Deere & Company,Core,True
+DECK,NYSE:DECK,Consumer non-durables,Apparel/Footwear,Deckers Outdoor Corporation,Core,True
+DG,NYSE:DG,Retail trade,Discount stores,Dollar General Corporation,Core,True
+DIS,NYSE:DIS,Consumer services,Movies/Entertainment,Walt Disney Company (The),Core,True
+DLO,NASDAQ:DLO,Technology services,Packaged software,DLocal Limited,Core,True
+DOCU,NASDAQ:DOCU,Technology services,Packaged software,"DocuSign, Inc.",Core,True
+DPZ,NASDAQ:DPZ,Consumer services,Restaurants,Domino's Pizza Inc,Core,True
+DUK,NYSE:DUK,Utilities,Electric utilities,,Core,True
+DUOL,NASDAQ:DUOL,Technology services,Packaged software,"Duolingo, Inc.",Core,True
+DVA,NYSE:DVA,Health services,Medical/Nursing services,DaVita Inc.,Core,True
+EC,NYSE:EC,Energy minerals,Integrated oil,Ecopetrol SA,Core,True
+EPAM,NYSE:EPAM,Technology services,Information technology services,"EPAM Systems, Inc.",Core,True
+ETSY,NYSE:ETSY,Retail trade,Internet retail,"Etsy, Inc.",Core,True
+EXPE,NASDAQ:EXPE,Consumer services,Other consumer services,"Expedia Group, Inc.",Core,True
+FISV,NASDAQ:FISV,Commercial services,Miscellaneous commercial services,"Fiserv, Inc.",Core,True
+FIVE,NASDAQ:FIVE,Retail trade,Discount stores,"Five Below, Inc.",Core,True
+FTNT,NASDAQ:FTNT,Technology services,Information technology services,"Fortinet, Inc.",Core,True
+GE,NYSE:GE,Electronic technology,Aerospace & defense,GE Aerospace,Core,True
+GLBE,NASDAQ:GLBE,Retail trade,Internet retail,Global-E Online Ltd.,Core,True
+GLOB,NASDAQ:GLOB,Technology services,IT consulting,,Core,True
+GOOG,NYSE:GOOG,Technology services,Internet media,,Core,True
+GPN,NASDAQ:GPN,Finance,Transaction & payment processing,,Core,True
+GPRK,NYSE:GPRK,Energy minerals,Oil & gas production,Geopark Ltd,Core,True
+GRAB,NASDAQ:GRAB,Transportation,Air freight/Couriers,Grab Holdings Limited,Core,True
+GS,NYSE:GS,Finance,Investment banks,,Core,True
+HIMS,NASDAQ:HIMS,Health technology,Pharmaceuticals: other,,Core,True
+HRL,NYSE:HRL,Consumer non-durables,Food: meat/fish/dairy,Hormel Foods Corporation,Core,True
+HSY,NYSE:HSY,Consumer non-durables,Food: specialty/candy,The Hershey Company,Core,True
+IGV,NASDAQ:IGV,Technology services,ETF,,Core,True
+ILF,NASDAQ:ILF,Finance,Latin America ETF,,Core,True
+INFY,NYSE:INFY,Technology services,Information technology services,Infosys Limited,Core,True
+INTC,NASDAQ:INTC,Electronic technology,Semiconductors,,Core,True
+INTU,NASDAQ:INTU,Technology services,Packaged software,Intuit Inc.,Core,True
+IRDM,NASDAQ:IRDM,Communications,Specialty telecommunications,Iridium Communications Inc,Core,True
+IREN,NASDAQ:IREN,Technology services,Data processing services,IREN Limited,Core,True
+JD,NYSE:JD,Retail trade,Internet retail,,Core,True
+JNJ,NYSE:JNJ,Health technology,Pharmaceuticals: major,Johnson & Johnson,Core,True
+JOBY,NASDAQ:JOBY,Transportation,Air transportation,,Core,True
+KER.PA,EURONEXT:KER,Consumer non-durables,Consumer sundries,Kering SA,Core,True
+KHC,NASDAQ:KHC,Consumer non-durables,Food: major diversified,The Kraft Heinz Company,Core,True
+KO,NYSE:KO,Consumer non-durables,Beverages: non-alcoholic,Coca-Cola Company (The),Core,True
+KTOS,NASDAQ:KTOS,Electronic technology,Aerospace & defense,"Kratos Defense & Security Solutions, Inc.",Core,True
+LIN,NYSE:LIN,Non-energy minerals,Chemicals: Specialty,,Core,True
+LLY,NYSE:LLY,Health technology,Pharmaceuticals: major,Eli Lilly and Company,Core,True
+LULU,NASDAQ:LULU,Consumer non-durables,Apparel/Footwear,lululemon athletica inc.,Core,True
+LW,NYSE:LW,Consumer non-durables,Food: specialty/candy,"Lamb Weston Holdings, Inc.",Core,True
+MA,NYSE:MA,Finance,Finance/Rental/Leasing,Mastercard Incorporated,Core,True
+MC.PA,EURONEXT:MC,Consumer non-durables,Apparel/Footwear,LVMH Moet Hennessy Louis Vuitton SE,Core,True
+MDB,NASDAQ:MDB,Technology services,Packaged software,"MongoDB, Inc.",Core,True
+MDLZ,NASDAQ:MDLZ,Consumer non-durables,Food: specialty/candy,"Mondelez International, Inc.",Core,True
+MELI,NASDAQ:MELI,Retail trade,Internet retail,"MercadoLibre, Inc.",Core,True
+META,NASDAQ:META,Technology services,Internet software/Services,"Meta Platforms, Inc.",Core,True
+MMM,NYSE:MMM,Producer manufacturing,Industrial conglomerates,3M Company,Core,True
+MNDY,NASDAQ:MNDY,Technology services,Packaged software,monday.com Ltd.,Core,True
+MNSO,NYSE:MNSO,Retail trade,Specialty stores,MINISO Group Holding Ltd.,Core,True
+MNST,NASDAQ:MNST,Consumer non-durables,Beverages: non-alcoholic,Monster Beverage Corporation,Core,True
+MP,NASDAQ:MP,Non-energy minerals,Other metals/minerals,,Core,True
+MRK,NYSE:MRK,Health technology,Pharmaceuticals: major,"Merck & Company, Inc.",Core,True
+MSFT,NASDAQ:MSFT,Technology services,Packaged software,Microsoft Corporation,Core,True
+NEE,NYSE:NEE,Utilities,Electric utilities,,Core,True
+NFLX,NASDAQ:NFLX,Technology services,Internet software/Services,"Netflix, Inc.",Core,True
+NKE,NYSE:NKE,Consumer non-durables,Apparel/Footwear,"Nike, Inc.",Core,True
+NOW,NYSE:NOW,Technology services,Packaged software,"ServiceNow, Inc.",Core,True
+NU,NYSE:NU,Finance,Regional banks,Nu Holdings Ltd.,Core,True
+NVDA,NASDAQ:NVDA,Electronic technology,Semiconductors,NVIDIA Corporation,Core,True
+NVO,NYSE:NVO,Health technology,Pharmaceuticals: major,Novo Nordisk A/S Class B,Core,True
+O,NYSE:O,Finance,Real estate investment trusts,Realty Income Corporation,Core,True
+OKLO,NASDAQ:OKLO,Utilities,Independent power producers,,Core,True
+OLLI,NASDAQ:OLLI,Retail trade,Department stores,"Ollie's Bargain Outlet Holdings, Inc.",Core,True
+ONDS,NASDAQ:ONDS,Electronic technology,Telecommunications equipment,Ondas Inc,Core,True
+ONON,NYSE:ONON,Consumer non-durables,Apparel/Footwear,On Holding AG,Core,True
+ORCL,NYSE:ORCL,Technology services,Packaged software,Oracle Corporation,Core,True
+OSCR,NASDAQ:OSCR,Finance,Real estate investment trusts,,Core,True
+OXY,NYSE:OXY,Energy minerals,Integrated oil,Occidental Petroleum Corporation,Core,True
+PAGS,NYSE:PAGS,Commercial services,Miscellaneous commercial services,PagSeguro Digital Ltd.,Core,True
+PATH,NYSE:PATH,Technology services,Packaged software,"UiPath, Inc.",Core,True
+PDD,NASDAQ:PDD,Retail trade,Department stores,PDD Holdings Inc.,Core,True
+PEP,NASDAQ:PEP,Consumer non-durables,Food: specialty/candy,"PepsiCo, Inc.",Core,True
+PFE,NYSE:PFE,Health technology,Pharmaceuticals: major,"Pfizer, Inc.",Core,True
+PG,NYSE:PG,Consumer non-durables,Household/Personal care,Procter & Gamble Company (The),Core,True
+PLD,NYSE:PLD,Finance,Real estate investment trusts,"Prologis, Inc.",Core,True
+PUM.DE,XETR:PUM,Consumer non-durables,Apparel/Footwear,PUMA SE,Core,True
+PYPL,NASDAQ:PYPL,Commercial services,Miscellaneous commercial services,"PayPal Holdings, Inc.",Core,True
+QQQ,NASDAQ:QQQ,Technology services,ETF,,Core,True
+QS,NASDAQ:QS,Producer manufacturing,Electrical products,QuantumScape Corporation,Core,True
+RBRK,NASDAQ:RBRK,Technology services,Software,,Core,True
+REGN,NASDAQ:REGN,Health technology,Biotechnology,,Core,True
+RGTI,NASDAQ:RGTI,Electronic technology,Computer processing hardware,"Rigetti Computing, Inc.",Core,True
+RKLB,NASDAQ:RKLB,Electronic technology,Aerospace & defense,Rocket Lab Corporation,Core,True
+RMS.PA,EURONEXT:RMS,Consumer non-durables,Apparel/Footwear,Hermes International SCA,Core,True
+SAP,NYSE:SAP,Technology services,Packaged software,SAP SE,Core,True
+SAP.DE,XETR:SAP,Technology services,Packaged software,SAP SE,Core,True
+SBUX,NASDAQ:SBUX,Consumer services,Restaurants,Starbucks Corporation,Core,True
+SE,NYSE:SE,Retail trade,Internet retail,Sea Limited,Core,True
+SHAK,NYSE:SHAK,Consumer services,Restaurants,"Shake Shack, Inc.",Core,True
+SLV,NYSE:SLV,Non-energy minerals,Precious metals/minerals,,Core,True
+SMR,NYSE:SMR,Producer manufacturing,Electrical products,NuScale Power Corporation,Core,True
+SOFI,NASDAQ:SOFI,Finance,Finance: Consumer services,,Core,True
+SPY,NYSE:SPY,Finance,ETF,,Core,True
+SQM,NYSE:SQM,Process industries,Chemicals: specialty,Sociedad Quimica y Minera de Chile SA Pfd Series A,Core,True
+STNE,NASDAQ:STNE,Commercial services,Miscellaneous commercial services,StoneCo Ltd.,Core,True
+TAP,NYSE:TAP,Consumer non-durables,Beverages: alcoholic,Molson Coors Beverage Company,Core,True
+TEAM,NASDAQ:TEAM,Technology services,Packaged software,Atlassian Corporation,Core,True
+TEP.PA,EURONEXT:TEP,Commercial services,Miscellaneous commercial services,Teleperformance SE,Core,True
+TGT,NYSE:TGT,Retail trade,Specialty stores,Target Corporation,Core,True
+TLT,NASDAQ:TLT,Finance,Bond ETF,,Core,True
+TM,NYSE:TM,Consumer durables,Motor vehicles,Toyota Motor Corp.,Core,True
+TSLA,NASDAQ:TSLA,Consumer durables,Motor vehicles,"Tesla, Inc.",Core,True
+TSM,NYSE:TSM,Electronic technology,Semiconductors,"Taiwan Semiconductor Manufacturing Co., Ltd.",Core,True
+TTD,NASDAQ:TTD,Technology services,Packaged software,"The Trade Desk, Inc.",Core,True
+UBER,NYSE:UBER,Transportation,Other transportation,"Uber Technologies, Inc.",Core,True
+ULTA,NASDAQ:ULTA,Retail trade,Specialty stores,"Ulta Beauty, Inc.",Core,True
+UNH,NYSE:UNH,Health services,Managed health care,UnitedHealth Group Incorporated,Core,True
+VEEV,NASDAQ:VEEV,Health technology,Software,,Core,True
+VXX,NYSE:VXX,Finance,ETF,,Core,True
+WDAY,NASDAQ:WDAY,Technology services,Information technology services,"Workday, Inc.",Core,True
+WELL,NYSE:WELL,Finance,Real estate investment trusts,,Core,True
+WIX,NASDAQ:WIX,Technology services,Packaged software,Wix.com Ltd.,Core,True
+WMT,NYSE:WMT,Retail trade,Discount stores,,Core,True
+WSM,NYSE:WSM,Retail trade,Specialty stores,"Williams-Sonoma, Inc.",Core,True
+XLE,NYSE:XLE,Energy minerals,ETF,,Core,True
+XLF,NYSE:XLF,Finance,ETF,,Core,True
+XLU,NYSE:XLU,Utilities,ETF,,Core,True
+XLV,NYSE:XLV,Health technology,ETF,,Core,True
+XOM,NYSE:XOM,Energy minerals,Integrated oil,ExxonMobil Holdings Corporation,Core,True
+XP,NASDAQ:XP,Finance,Investment banks/Brokers,XP Inc.,Core,True
+ZTS,NYSE:ZTS,Health technology,Pharmaceuticals: major,Zoetis Inc.,Core,True
+AAPL,NASDAQ:AAPL,Technology,Consumer Electronics,Apple Inc.,Core,True
+GOOGL,NASDAQ:GOOGL,Technology,Internet media,Alphabet Inc. Class A,Core,True
