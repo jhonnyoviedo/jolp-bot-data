@@ -1,0 +1,3268 @@
+[
+  {
+    "ticker": "KER.PA",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:08.879388",
+    "close": 255.7,
+    "rsi": 41.9,
+    "macd_hist": -3.2961,
+    "vol_rel10": 1.04,
+    "ema20": 269.13,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "OBV_Div_Up",
+      "Williams_Oversold",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 4,
+    "n_exit": 4
+  },
+  {
+    "ticker": "MC.PA",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:09.580247",
+    "close": 447.75,
+    "rsi": 33.5,
+    "macd_hist": -3.0187,
+    "vol_rel10": 1.04,
+    "ema20": 469.98,
+    "entry_flags_active": [
+      "ADX_Weak",
+      "Williams_Oversold",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 5
+  },
+  {
+    "ticker": "RMS.PA",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:10.267079",
+    "close": 1560.5,
+    "rsi": 43.4,
+    "macd_hist": -3.314,
+    "vol_rel10": 1.04,
+    "ema20": 1598.97,
+    "entry_flags_active": [
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 1,
+    "n_exit": 5
+  },
+  {
+    "ticker": "TEP.PA",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:10.881703",
+    "close": 68.78,
+    "rsi": 60.9,
+    "macd_hist": 0.0763,
+    "vol_rel10": 0.97,
+    "ema20": 65.4,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "Williams_Overbought",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 4,
+    "n_exit": 2
+  },
+  {
+    "ticker": "ABNB",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:16.020682",
+    "close": 183.25,
+    "rsi": 70.5,
+    "macd_hist": 2.2398,
+    "vol_rel10": 0.65,
+    "ema20": 166.87,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "Williams_Overbought"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak"
+    ],
+    "n_entry": 2,
+    "n_exit": 1
+  },
+  {
+    "ticker": "ADBE",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:16.719093",
+    "close": 263.14,
+    "rsi": 58.7,
+    "macd_hist": -0.1685,
+    "vol_rel10": 1.1,
+    "ema20": 252.65,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 2
+  },
+  {
+    "ticker": "AMD",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:17.416444",
+    "close": 484.39,
+    "rsi": 46.9,
+    "macd_hist": 1.0957,
+    "vol_rel10": 0.97,
+    "ema20": 496.27,
+    "entry_flags_active": [
+      "ADX_Weak",
+      "ROC_Momentum_Up",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 3
+  },
+  {
+    "ticker": "AMZN",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:18.040396",
+    "close": 259.45,
+    "rsi": 50.6,
+    "macd_hist": -1.0078,
+    "vol_rel10": 0.96,
+    "ema20": 260.94,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 3
+  },
+  {
+    "ticker": "ARRY",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:18.728170",
+    "close": 4.8,
+    "rsi": 33.4,
+    "macd_hist": 0.0089,
+    "vol_rel10": 0.72,
+    "ema20": 5.47,
+    "entry_flags_active": [
+      "Williams_Oversold",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 5
+  },
+  {
+    "ticker": "ASML",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:19.407190",
+    "close": 1802.98,
+    "rsi": 53.5,
+    "macd_hist": 17.5593,
+    "vol_rel10": 1.23,
+    "ema20": 1771.8,
+    "entry_flags_active": [],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 0,
+    "n_exit": 2
+  },
+  {
+    "ticker": "ASTS",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:20.065580",
+    "close": 67.07,
+    "rsi": 47.4,
+    "macd_hist": 1.1728,
+    "vol_rel10": 0.81,
+    "ema20": 68.45,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 5
+  },
+  {
+    "ticker": "BIDU",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:20.780131",
+    "close": 90.87,
+    "rsi": 23.2,
+    "macd_hist": -1.1232,
+    "vol_rel10": 4.56,
+    "ema20": 106.41,
+    "entry_flags_active": [
+      "ADX_Weak",
+      "Williams_Oversold",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 4,
+    "n_exit": 5
+  },
+  {
+    "ticker": "BKNG",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:21.466188",
+    "close": 208.25,
+    "rsi": 56.8,
+    "macd_hist": 1.5698,
+    "vol_rel10": 0.82,
+    "ema20": 201.27,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 4
+  },
+  {
+    "ticker": "CAKE",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:22.141085",
+    "close": 106.36,
+    "rsi": 61.3,
+    "macd_hist": -0.3047,
+    "vol_rel10": 0.92,
+    "ema20": 102.73,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 3
+  },
+  {
+    "ticker": "CELH",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:22.756115",
+    "close": 29.9,
+    "rsi": 54.1,
+    "macd_hist": 0.2918,
+    "vol_rel10": 0.52,
+    "ema20": 28.73,
+    "entry_flags_active": [
+      "Williams_Overbought",
+      "ROC_Momentum_Up",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak"
+    ],
+    "n_entry": 3,
+    "n_exit": 1
+  },
+  {
+    "ticker": "COIN",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:23.451381",
+    "close": 146.23,
+    "rsi": 42.9,
+    "macd_hist": -0.213,
+    "vol_rel10": 1.0,
+    "ema20": 152.99,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 5
+  },
+  {
+    "ticker": "COST",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:24.130913",
+    "close": 961.35,
+    "rsi": 55.6,
+    "macd_hist": 2.0416,
+    "vol_rel10": 1.19,
+    "ema20": 950.63,
+    "entry_flags_active": [
+      "BB_Squeeze",
+      "ADX_Strong",
+      "OBV_Div_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_VCP_Resolved"
+    ],
+    "n_entry": 3,
+    "n_exit": 3
+  },
+  {
+    "ticker": "CROX",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:24.768539",
+    "close": 128.66,
+    "rsi": 46.2,
+    "macd_hist": -1.1193,
+    "vol_rel10": 0.85,
+    "ema20": 132.23,
+    "entry_flags_active": [
+      "OBV_Div_Down",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 3
+  },
+  {
+    "ticker": "DLO",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:25.440067",
+    "close": 13.64,
+    "rsi": 40.2,
+    "macd_hist": -0.1814,
+    "vol_rel10": 1.47,
+    "ema20": 14.39,
+    "entry_flags_active": [
+      "ADX_Weak",
+      "Williams_Oversold",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 4,
+    "n_exit": 3
+  },
+  {
+    "ticker": "DOCU",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:26.076160",
+    "close": 60.01,
+    "rsi": 60.5,
+    "macd_hist": 0.163,
+    "vol_rel10": 1.03,
+    "ema20": 57.01,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "OBV_Div_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 2
+  },
+  {
+    "ticker": "DPZ",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:26.702172",
+    "close": 336.25,
+    "rsi": 47.9,
+    "macd_hist": -3.2905,
+    "vol_rel10": 0.94,
+    "ema20": 342.91,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "Williams_Oversold",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 3
+  },
+  {
+    "ticker": "DUOL",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:27.374218",
+    "close": 139.64,
+    "rsi": 55.6,
+    "macd_hist": -0.0387,
+    "vol_rel10": 0.97,
+    "ema20": 133.15,
+    "entry_flags_active": [
+      "ADX_Weak",
+      "ROC_Momentum_Up",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 2
+  },
+  {
+    "ticker": "EXPE",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:27.958277",
+    "close": 321.42,
+    "rsi": 65.0,
+    "macd_hist": 0.6346,
+    "vol_rel10": 0.6,
+    "ema20": 304.86,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 2
+  },
+  {
+    "ticker": "FISV",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:28.636591",
+    "close": 51.72,
+    "rsi": 47.0,
+    "macd_hist": -0.1486,
+    "vol_rel10": 0.62,
+    "ema20": 52.78,
+    "entry_flags_active": [
+      "ADX_Weak",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 4
+  },
+  {
+    "ticker": "FIVE",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:29.306013",
+    "close": 238.51,
+    "rsi": 66.7,
+    "macd_hist": 1.0578,
+    "vol_rel10": 0.68,
+    "ema20": 225.85,
+    "entry_flags_active": [
+      "ADX_Strong"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 1,
+    "n_exit": 2
+  },
+  {
+    "ticker": "FTNT",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:30.000327",
+    "close": 158.01,
+    "rsi": 49.8,
+    "macd_hist": -0.8682,
+    "vol_rel10": 0.94,
+    "ema20": 159.42,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 3
+  },
+  {
+    "ticker": "GLBE",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:30.615296",
+    "close": 41.31,
+    "rsi": 59.2,
+    "macd_hist": -0.061,
+    "vol_rel10": 0.49,
+    "ema20": 40.12,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "OBV_Div_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_VSA_NoDemand",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 3
+  },
+  {
+    "ticker": "GOOG",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:31.276639",
+    "close": 341.28,
+    "rsi": 44.9,
+    "macd_hist": -0.8011,
+    "vol_rel10": 0.89,
+    "ema20": 347.73,
+    "entry_flags_active": [
+      "ADX_Weak",
+      "OBV_Div_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_VCP_Resolved",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 5
+  },
+  {
+    "ticker": "GRAB",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:31.928451",
+    "close": 3.45,
+    "rsi": 41.8,
+    "macd_hist": -0.0079,
+    "vol_rel10": 1.09,
+    "ema20": 3.61,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "OBV_Div_Up",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 4,
+    "n_exit": 5
+  },
+  {
+    "ticker": "INTC",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:32.576500",
+    "close": 96.685,
+    "rsi": 44.6,
+    "macd_hist": 1.1736,
+    "vol_rel10": 1.12,
+    "ema20": 100.59,
+    "entry_flags_active": [
+      "ADX_Weak",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 4
+  },
+  {
+    "ticker": "INTU",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:33.258602",
+    "close": 350.41,
+    "rsi": 65.2,
+    "macd_hist": 2.3856,
+    "vol_rel10": 1.18,
+    "ema20": 324.48,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "Williams_Overbought",
+      "ROC_Momentum_Up",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 4,
+    "n_exit": 1
+  },
+  {
+    "ticker": "IRDM",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:33.929111",
+    "close": 49.03,
+    "rsi": 51.9,
+    "macd_hist": 0.1291,
+    "vol_rel10": 0.99,
+    "ema20": 48.86,
+    "entry_flags_active": [
+      "BB_Squeeze",
+      "ADX_Strong"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 2
+  },
+  {
+    "ticker": "IREN",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:34.613169",
+    "close": 42.0,
+    "rsi": 50.4,
+    "macd_hist": 0.9916,
+    "vol_rel10": 0.99,
+    "ema20": 41.4,
+    "entry_flags_active": [
+      "ROC_Momentum_Up",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 5
+  },
+  {
+    "ticker": "JD",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:35.244064",
+    "close": 28.82,
+    "rsi": 38.6,
+    "macd_hist": -0.5861,
+    "vol_rel10": 0.71,
+    "ema20": 30.58,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "Williams_Oversold",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 4
+  },
+  {
+    "ticker": "KHC",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:35.865773",
+    "close": 24.82,
+    "rsi": 46.5,
+    "macd_hist": -0.1705,
+    "vol_rel10": 0.68,
+    "ema20": 25.28,
+    "entry_flags_active": [],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 0,
+    "n_exit": 3
+  },
+  {
+    "ticker": "KTOS",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:36.552588",
+    "close": 61.99,
+    "rsi": 63.4,
+    "macd_hist": 1.1095,
+    "vol_rel10": 0.62,
+    "ema20": 57.36,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 2
+  },
+  {
+    "ticker": "LIN",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:37.202950",
+    "close": 478.705,
+    "rsi": 37.9,
+    "macd_hist": -1.0607,
+    "vol_rel10": 1.25,
+    "ema20": 491.61,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 5
+  },
+  {
+    "ticker": "LULU",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:37.848037",
+    "close": 119.01,
+    "rsi": 48.1,
+    "macd_hist": -0.6031,
+    "vol_rel10": 1.15,
+    "ema20": 120.33,
+    "entry_flags_active": [
+      "ADX_Weak",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 5
+  },
+  {
+    "ticker": "MDB",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:38.469298",
+    "close": 434.62,
+    "rsi": 64.9,
+    "macd_hist": 8.2269,
+    "vol_rel10": 0.69,
+    "ema20": 394.88,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "MFI_Overbought",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 2
+  },
+  {
+    "ticker": "MDLZ",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:39.119274",
+    "close": 62.66,
+    "rsi": 54.7,
+    "macd_hist": 0.0422,
+    "vol_rel10": 1.07,
+    "ema20": 62.02,
+    "entry_flags_active": [
+      "ADX_Strong"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak"
+    ],
+    "n_entry": 1,
+    "n_exit": 1
+  },
+  {
+    "ticker": "MELI",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:39.815316",
+    "close": 1779.14,
+    "rsi": 44.9,
+    "macd_hist": -14.5286,
+    "vol_rel10": 0.61,
+    "ema20": 1830.84,
+    "entry_flags_active": [
+      "ADX_Weak",
+      "Williams_Oversold",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 4
+  },
+  {
+    "ticker": "META",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:40.504425",
+    "close": 543.67,
+    "rsi": 36.3,
+    "macd_hist": -3.5271,
+    "vol_rel10": 1.85,
+    "ema20": 588.56,
+    "entry_flags_active": [
+      "OBV_Div_Up",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 5
+  },
+  {
+    "ticker": "MNDY",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:41.196493",
+    "close": 88.04,
+    "rsi": 53.1,
+    "macd_hist": -0.4172,
+    "vol_rel10": 0.64,
+    "ema20": 86.18,
+    "entry_flags_active": [
+      "ADX_Weak",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 2
+  },
+  {
+    "ticker": "MNST",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:41.889600",
+    "close": 47.38,
+    "rsi": 16.2,
+    "macd_hist": -5.1257,
+    "vol_rel10": 1.86,
+    "ema20": 72.78,
+    "entry_flags_active": [
+      "Breakout_Vol",
+      "ADX_Strong",
+      "Williams_Oversold",
+      "ROC_Momentum_Up",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 5,
+    "n_exit": 5
+  },
+  {
+    "ticker": "MSFT",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:42.554133",
+    "close": 481.63,
+    "rsi": 62.6,
+    "macd_hist": -0.5859,
+    "vol_rel10": 0.88,
+    "ema20": 465.45,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 2
+  },
+  {
+    "ticker": "NFLX",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:43.243756",
+    "close": 77.77,
+    "rsi": 58.7,
+    "macd_hist": 0.7371,
+    "vol_rel10": 1.23,
+    "ema20": 74.81,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "Williams_Overbought",
+      "ROC_Momentum_Up"
+    ],
+    "exit_flags_active": [],
+    "n_entry": 3,
+    "n_exit": 0
+  },
+  {
+    "ticker": "NVDA",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:43.902818",
+    "close": 219.74,
+    "rsi": 56.5,
+    "macd_hist": 1.0987,
+    "vol_rel10": 0.96,
+    "ema20": 215.49,
+    "entry_flags_active": [
+      "ADX_Strong"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 1,
+    "n_exit": 2
+  },
+  {
+    "ticker": "OLLI",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:44.548596",
+    "close": 76.21,
+    "rsi": 54.7,
+    "macd_hist": 0.1566,
+    "vol_rel10": 0.99,
+    "ema20": 74.94,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 3
+  },
+  {
+    "ticker": "ONDS",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:45.203593",
+    "close": 9.06,
+    "rsi": 55.5,
+    "macd_hist": 0.0845,
+    "vol_rel10": 0.91,
+    "ema20": 8.71,
+    "entry_flags_active": [
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 2
+  },
+  {
+    "ticker": "PDD",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:45.876772",
+    "close": 87.27,
+    "rsi": 50.7,
+    "macd_hist": -0.4909,
+    "vol_rel10": 0.97,
+    "ema20": 87.38,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "OBV_Div_Down",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 3
+  },
+  {
+    "ticker": "PEP",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:46.528879",
+    "close": 140.13,
+    "rsi": 52.1,
+    "macd_hist": 0.2825,
+    "vol_rel10": 1.04,
+    "ema20": 139.17,
+    "entry_flags_active": [
+      "REB",
+      "BB_Squeeze",
+      "ADX_Strong"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_VCP_Resolved",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 6
+  },
+  {
+    "ticker": "PYPL",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:47.188578",
+    "close": 60.43,
+    "rsi": 69.4,
+    "macd_hist": -0.2083,
+    "vol_rel10": 1.05,
+    "ema20": 57.77,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ROC_Momentum_Up"
+    ],
+    "exit_flags_active": [
+      "TP_Agotamiento",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 2
+  },
+  {
+    "ticker": "QS",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:47.826296",
+    "close": 5.76,
+    "rsi": 44.0,
+    "macd_hist": 0.1049,
+    "vol_rel10": 1.17,
+    "ema20": 5.98,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 5
+  },
+  {
+    "ticker": "REGN",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:48.491764",
+    "close": 810.24,
+    "rsi": 78.2,
+    "macd_hist": 3.0266,
+    "vol_rel10": 1.06,
+    "ema20": 759.45,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "Williams_Overbought",
+      "MFI_Overbought"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak"
+    ],
+    "n_entry": 3,
+    "n_exit": 1
+  },
+  {
+    "ticker": "RGTI",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:49.180923",
+    "close": 17.71,
+    "rsi": 52.7,
+    "macd_hist": 0.3489,
+    "vol_rel10": 0.75,
+    "ema20": 17.31,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 2
+  },
+  {
+    "ticker": "RKLB",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:49.877439",
+    "close": 79.16,
+    "rsi": 50.5,
+    "macd_hist": 1.9247,
+    "vol_rel10": 0.75,
+    "ema20": 77.76,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "OBV_Div_Up",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 3
+  },
+  {
+    "ticker": "SBUX",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:50.543998",
+    "close": 106.01,
+    "rsi": 51.8,
+    "macd_hist": 0.1192,
+    "vol_rel10": 0.99,
+    "ema20": 105.92,
+    "entry_flags_active": [
+      "BB_Squeeze",
+      "ADX_Weak"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 3
+  },
+  {
+    "ticker": "SOFI",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:51.225238",
+    "close": 17.66,
+    "rsi": 48.8,
+    "macd_hist": 0.0265,
+    "vol_rel10": 0.7,
+    "ema20": 17.85,
+    "entry_flags_active": [
+      "ADX_Weak",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 3
+  },
+  {
+    "ticker": "STNE",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:51.921241",
+    "close": 9.12,
+    "rsi": 25.2,
+    "macd_hist": -0.2032,
+    "vol_rel10": 1.06,
+    "ema20": 10.39,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "OBV_Div_Down",
+      "Williams_Oversold",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 5,
+    "n_exit": 5
+  },
+  {
+    "ticker": "TEAM",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:52.746450",
+    "close": 163.0,
+    "rsi": 77.3,
+    "macd_hist": 4.5123,
+    "vol_rel10": 0.73,
+    "ema20": 131.12,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "Williams_Overbought",
+      "MFI_Overbought",
+      "ROC_Momentum_Up",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [],
+    "n_entry": 5,
+    "n_exit": 0
+  },
+  {
+    "ticker": "TSLA",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:53.414411",
+    "close": 336.87,
+    "rsi": 45.1,
+    "macd_hist": 4.5214,
+    "vol_rel10": 0.92,
+    "ema20": 339.71,
+    "entry_flags_active": [
+      "ADX_Strong"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 1,
+    "n_exit": 5
+  },
+  {
+    "ticker": "TTD",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:54.113979",
+    "close": 13.42,
+    "rsi": 32.1,
+    "macd_hist": -0.3238,
+    "vol_rel10": 0.44,
+    "ema20": 15.86,
+    "entry_flags_active": [
+      "BUY_ZONE",
+      "ADX_Strong",
+      "Williams_Oversold",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 4,
+    "n_exit": 5
+  },
+  {
+    "ticker": "ULTA",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:54.737525",
+    "close": 516.74,
+    "rsi": 52.6,
+    "macd_hist": -3.9986,
+    "vol_rel10": 1.34,
+    "ema20": 514.06,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 3
+  },
+  {
+    "ticker": "WDAY",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:55.447052",
+    "close": 190.635,
+    "rsi": 64.7,
+    "macd_hist": 2.0196,
+    "vol_rel10": 0.7,
+    "ema20": 172.59,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ROC_Momentum_Up",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_VSA_NoDemand",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 3
+  },
+  {
+    "ticker": "WIX",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:56.116132",
+    "close": 77.16,
+    "rsi": 68.6,
+    "macd_hist": 1.6094,
+    "vol_rel10": 1.58,
+    "ema20": 64.44,
+    "entry_flags_active": [
+      "Breakout_Vol",
+      "ADX_Strong",
+      "Williams_Overbought",
+      "ROC_Momentum_Up",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 5,
+    "n_exit": 1
+  },
+  {
+    "ticker": "WMT",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:56.771511",
+    "close": 115.2,
+    "rsi": 55.9,
+    "macd_hist": 0.6026,
+    "vol_rel10": 1.08,
+    "ema20": 113.47,
+    "entry_flags_active": [
+      "ADX_Weak",
+      "Williams_Overbought"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak"
+    ],
+    "n_entry": 2,
+    "n_exit": 1
+  },
+  {
+    "ticker": "XP",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:57.465030",
+    "close": 15.84,
+    "rsi": 41.9,
+    "macd_hist": -0.1172,
+    "vol_rel10": 1.77,
+    "ema20": 16.24,
+    "entry_flags_active": [
+      "Breakout_Vol",
+      "ADX_Weak",
+      "OBV_Div_Down",
+      "ROC_Momentum_Up"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 4,
+    "n_exit": 5
+  },
+  {
+    "ticker": "ABBV",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:58.167504",
+    "close": 258.92,
+    "rsi": 61.8,
+    "macd_hist": -0.0373,
+    "vol_rel10": 1.1,
+    "ema20": 250.33,
+    "entry_flags_active": [
+      "ADX_Weak",
+      "OBV_Div_Down",
+      "Williams_Overbought",
+      "ROC_Momentum_Up"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak"
+    ],
+    "n_entry": 4,
+    "n_exit": 2
+  },
+  {
+    "ticker": "ABEV",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:58.844121",
+    "close": 2.78,
+    "rsi": 25.7,
+    "macd_hist": -0.0254,
+    "vol_rel10": 0.43,
+    "ema20": 2.94,
+    "entry_flags_active": [
+      "Vol_Dryup",
+      "ADX_Strong",
+      "Williams_Oversold",
+      "MFI_Oversold",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 5,
+    "n_exit": 5
+  },
+  {
+    "ticker": "AMT",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:34:59.521016",
+    "close": 172.33,
+    "rsi": 51.5,
+    "macd_hist": 0.4806,
+    "vol_rel10": 0.82,
+    "ema20": 171.4,
+    "entry_flags_active": [
+      "REB",
+      "ADX_Weak"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 5
+  },
+  {
+    "ticker": "BA",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:00.183510",
+    "close": 223.06,
+    "rsi": 47.5,
+    "macd_hist": -0.4474,
+    "vol_rel10": 1.11,
+    "ema20": 226.45,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 3
+  },
+  {
+    "ticker": "BABA",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:00.833919",
+    "close": 128.15,
+    "rsi": 60.5,
+    "macd_hist": -0.1931,
+    "vol_rel10": 1.47,
+    "ema20": 122.8,
+    "entry_flags_active": [
+      "ADX_Strong"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 1,
+    "n_exit": 2
+  },
+  {
+    "ticker": "BAX",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:01.469957",
+    "close": 25.94,
+    "rsi": 55.2,
+    "macd_hist": -0.2484,
+    "vol_rel10": 0.94,
+    "ema20": 25.79,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "Williams_Oversold",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 4,
+    "n_exit": 3
+  },
+  {
+    "ticker": "BHP",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:02.124505",
+    "close": 89.09,
+    "rsi": 57.4,
+    "macd_hist": 0.0964,
+    "vol_rel10": 1.26,
+    "ema20": 87.02,
+    "entry_flags_active": [
+      "BB_Squeeze"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak"
+    ],
+    "n_entry": 1,
+    "n_exit": 1
+  },
+  {
+    "ticker": "BMY",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:02.758921",
+    "close": 66.05,
+    "rsi": 64.9,
+    "macd_hist": -0.1181,
+    "vol_rel10": 1.02,
+    "ema20": 63.48,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ROC_Momentum_Up"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 2
+  },
+  {
+    "ticker": "BN",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:03.397189",
+    "close": 42.13,
+    "rsi": 40.2,
+    "macd_hist": -0.0773,
+    "vol_rel10": 0.88,
+    "ema20": 43.54,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "Williams_Oversold",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 5
+  },
+  {
+    "ticker": "BSX",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:04.023944",
+    "close": 50.47,
+    "rsi": 61.9,
+    "macd_hist": 0.369,
+    "vol_rel10": 0.71,
+    "ema20": 48.86,
+    "entry_flags_active": [
+      "ADX_Strong"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 1,
+    "n_exit": 2
+  },
+  {
+    "ticker": "CAT",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:04.655842",
+    "close": 840.87,
+    "rsi": 42.9,
+    "macd_hist": 3.8684,
+    "vol_rel10": 1.07,
+    "ema20": 865.12,
+    "entry_flags_active": [
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 1,
+    "n_exit": 4
+  },
+  {
+    "ticker": "CLF",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:05.249969",
+    "close": 11.88,
+    "rsi": 53.5,
+    "macd_hist": -0.0062,
+    "vol_rel10": 1.02,
+    "ema20": 11.74,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 2
+  },
+  {
+    "ticker": "CMG",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:05.893434",
+    "close": 33.36,
+    "rsi": 48.9,
+    "macd_hist": -0.1297,
+    "vol_rel10": 0.77,
+    "ema20": 33.59,
+    "entry_flags_active": [
+      "ADX_Weak",
+      "OBV_Div_Down",
+      "ROC_Momentum_Up",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 4,
+    "n_exit": 4
+  },
+  {
+    "ticker": "CNC",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:06.543119",
+    "close": 65.22,
+    "rsi": 50.4,
+    "macd_hist": 0.0078,
+    "vol_rel10": 0.89,
+    "ema20": 65.3,
+    "entry_flags_active": [
+      "BB_Squeeze",
+      "ADX_Strong",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 2
+  },
+  {
+    "ticker": "CRCL",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:07.215307",
+    "close": 71.73,
+    "rsi": 54.0,
+    "macd_hist": 1.5748,
+    "vol_rel10": 0.79,
+    "ema20": 68.68,
+    "entry_flags_active": [
+      "BB_Squeeze",
+      "OBV_Div_Up",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 4
+  },
+  {
+    "ticker": "CRM",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:07.876802",
+    "close": 196.14,
+    "rsi": 60.1,
+    "macd_hist": 0.4651,
+    "vol_rel10": 1.18,
+    "ema20": 187.18,
+    "entry_flags_active": [
+      "ADX_Strong"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 1,
+    "n_exit": 2
+  },
+  {
+    "ticker": "CVS",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:08.503128",
+    "close": 94.91,
+    "rsi": 37.9,
+    "macd_hist": -0.8958,
+    "vol_rel10": 0.72,
+    "ema20": 99.13,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "Williams_Oversold"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 3
+  },
+  {
+    "ticker": "CVX",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:09.181725",
+    "close": 205.74,
+    "rsi": 69.6,
+    "macd_hist": 1.0419,
+    "vol_rel10": 0.97,
+    "ema20": 193.77,
+    "entry_flags_active": [
+      "Stoch_Extreme",
+      "BB_Breakout",
+      "ADX_Strong",
+      "Williams_Overbought",
+      "ROC_Momentum_Up"
+    ],
+    "exit_flags_active": [],
+    "n_entry": 5,
+    "n_exit": 0
+  },
+  {
+    "ticker": "DAVA",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:09.884623",
+    "close": 3.0,
+    "rsi": 52.1,
+    "macd_hist": 0.0107,
+    "vol_rel10": 0.91,
+    "ema20": 2.97,
+    "entry_flags_active": [
+      "REB",
+      "ADX_Strong",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 5
+  },
+  {
+    "ticker": "DE",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:10.537510",
+    "close": 588.72,
+    "rsi": 42.5,
+    "macd_hist": -2.8432,
+    "vol_rel10": 1.37,
+    "ema20": 607.48,
+    "entry_flags_active": [
+      "BB_Squeeze",
+      "OBV_Div_Down",
+      "Williams_Oversold",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 4,
+    "n_exit": 3
+  },
+  {
+    "ticker": "DECK",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:11.241395",
+    "close": 89.51,
+    "rsi": 33.2,
+    "macd_hist": -0.7162,
+    "vol_rel10": 1.02,
+    "ema20": 96.5,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "Williams_Oversold",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 5
+  },
+  {
+    "ticker": "DG",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:11.919048",
+    "close": 120.84,
+    "rsi": 48.0,
+    "macd_hist": -0.8796,
+    "vol_rel10": 1.21,
+    "ema20": 122.38,
+    "entry_flags_active": [
+      "ADX_Weak",
+      "OBV_Div_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 3
+  },
+  {
+    "ticker": "DIS",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:12.603230",
+    "close": 103.95,
+    "rsi": 57.7,
+    "macd_hist": 0.5178,
+    "vol_rel10": 0.63,
+    "ema20": 101.58,
+    "entry_flags_active": [
+      "ADX_Strong"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak"
+    ],
+    "n_entry": 1,
+    "n_exit": 1
+  },
+  {
+    "ticker": "DUK",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:13.262921",
+    "close": 123.99,
+    "rsi": 46.7,
+    "macd_hist": -0.1264,
+    "vol_rel10": 1.0,
+    "ema20": 124.68,
+    "entry_flags_active": [
+      "ADX_Weak"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 1,
+    "n_exit": 5
+  },
+  {
+    "ticker": "DVA",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:13.947901",
+    "close": 177.91,
+    "rsi": 26.5,
+    "macd_hist": -4.0973,
+    "vol_rel10": 0.4,
+    "ema20": 199.33,
+    "entry_flags_active": [
+      "BUY_ZONE",
+      "Vol_Dryup",
+      "ADX_Strong",
+      "Williams_Oversold",
+      "MFI_Oversold",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 6,
+    "n_exit": 4
+  },
+  {
+    "ticker": "EC",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:14.612315",
+    "close": 17.68,
+    "rsi": 64.5,
+    "macd_hist": 0.0568,
+    "vol_rel10": 0.6,
+    "ema20": 16.79,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "OBV_Div_Down",
+      "Williams_Overbought",
+      "ROC_Momentum_Up"
+    ],
+    "exit_flags_active": [],
+    "n_entry": 4,
+    "n_exit": 0
+  },
+  {
+    "ticker": "EPAM",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:15.208022",
+    "close": 100.25,
+    "rsi": 54.5,
+    "macd_hist": -0.3876,
+    "vol_rel10": 0.79,
+    "ema20": 98.14,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 3
+  },
+  {
+    "ticker": "ETSY",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:15.873042",
+    "close": 79.96,
+    "rsi": 48.7,
+    "macd_hist": -0.8537,
+    "vol_rel10": 0.63,
+    "ema20": 81.05,
+    "entry_flags_active": [
+      "BB_Squeeze",
+      "OBV_Div_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 3
+  },
+  {
+    "ticker": "GE",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:16.559737",
+    "close": 375.09,
+    "rsi": 59.7,
+    "macd_hist": -0.0759,
+    "vol_rel10": 1.5,
+    "ema20": 365.2,
+    "entry_flags_active": [
+      "BB_Squeeze",
+      "OBV_Div_Up"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 2
+  },
+  {
+    "ticker": "GLOB",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:17.210643",
+    "close": 37.31,
+    "rsi": 54.5,
+    "macd_hist": 0.0031,
+    "vol_rel10": 0.95,
+    "ema20": 36.49,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 3
+  },
+  {
+    "ticker": "GPN",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:17.862572",
+    "close": 90.37,
+    "rsi": 61.6,
+    "macd_hist": 0.0798,
+    "vol_rel10": 0.44,
+    "ema20": 86.42,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ROC_Momentum_Up"
+    ],
+    "exit_flags_active": [
+      "EXIT_VSA_NoDemand",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 3
+  },
+  {
+    "ticker": "GPRK",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:18.511219",
+    "close": 9.37,
+    "rsi": 45.4,
+    "macd_hist": -0.0014,
+    "vol_rel10": 0.85,
+    "ema20": 9.54,
+    "entry_flags_active": [
+      "ADX_Weak"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 1,
+    "n_exit": 4
+  },
+  {
+    "ticker": "GS",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:19.180856",
+    "close": 1040.47,
+    "rsi": 48.2,
+    "macd_hist": -0.1876,
+    "vol_rel10": 1.15,
+    "ema20": 1045.76,
+    "entry_flags_active": [
+      "BB_Squeeze",
+      "ADX_Weak"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 3
+  },
+  {
+    "ticker": "HIMS",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:19.826100",
+    "close": 27.39,
+    "rsi": 40.1,
+    "macd_hist": -0.2938,
+    "vol_rel10": 0.65,
+    "ema20": 30.19,
+    "entry_flags_active": [
+      "BB_Squeeze",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 5
+  },
+  {
+    "ticker": "HRL",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:20.488148",
+    "close": 24.34,
+    "rsi": 44.1,
+    "macd_hist": -0.1431,
+    "vol_rel10": 1.29,
+    "ema20": 24.75,
+    "entry_flags_active": [
+      "BB_Squeeze"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 1,
+    "n_exit": 3
+  },
+  {
+    "ticker": "HSY",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:21.055282",
+    "close": 183.45,
+    "rsi": 55.7,
+    "macd_hist": 0.4985,
+    "vol_rel10": 0.83,
+    "ema20": 180.58,
+    "entry_flags_active": [
+      "ADX_Strong"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak"
+    ],
+    "n_entry": 1,
+    "n_exit": 1
+  },
+  {
+    "ticker": "INFY",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:21.716427",
+    "close": 11.83,
+    "rsi": 48.7,
+    "macd_hist": -0.065,
+    "vol_rel10": 1.09,
+    "ema20": 11.99,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "OBV_Div_Down",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 4
+  },
+  {
+    "ticker": "JNJ",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:22.415685",
+    "close": 271.11,
+    "rsi": 66.6,
+    "macd_hist": 0.4227,
+    "vol_rel10": 1.25,
+    "ema20": 259.65,
+    "entry_flags_active": [
+      "Stoch_Extreme",
+      "BB_Breakout",
+      "ADX_Weak",
+      "Williams_Overbought",
+      "ROC_Momentum_Up"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak"
+    ],
+    "n_entry": 5,
+    "n_exit": 1
+  },
+  {
+    "ticker": "JOBY",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:23.124074",
+    "close": 7.65,
+    "rsi": 44.7,
+    "macd_hist": 0.0493,
+    "vol_rel10": 0.58,
+    "ema20": 7.97,
+    "entry_flags_active": [
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 5
+  },
+  {
+    "ticker": "KO",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:23.759110",
+    "close": 88.82,
+    "rsi": 65.0,
+    "macd_hist": 0.0281,
+    "vol_rel10": 0.99,
+    "ema20": 86.24,
+    "entry_flags_active": [
+      "Stoch_Extreme",
+      "ADX_Strong",
+      "Williams_Overbought",
+      "ROC_Momentum_Up"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak"
+    ],
+    "n_entry": 4,
+    "n_exit": 1
+  },
+  {
+    "ticker": "LLY",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:24.409684",
+    "close": 1225.73,
+    "rsi": 57.9,
+    "macd_hist": 1.7249,
+    "vol_rel10": 0.88,
+    "ema20": 1188.43,
+    "entry_flags_active": [
+      "ADX_Weak",
+      "Williams_Overbought"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak"
+    ],
+    "n_entry": 2,
+    "n_exit": 1
+  },
+  {
+    "ticker": "LW",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:25.101398",
+    "close": 51.98,
+    "rsi": 56.3,
+    "macd_hist": -0.2715,
+    "vol_rel10": 0.71,
+    "ema20": 51.55,
+    "entry_flags_active": [],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 0,
+    "n_exit": 3
+  },
+  {
+    "ticker": "MA",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:25.781430",
+    "close": 574.31,
+    "rsi": 62.9,
+    "macd_hist": -1.492,
+    "vol_rel10": 1.39,
+    "ema20": 559.4,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ROC_Momentum_Up"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak"
+    ],
+    "n_entry": 2,
+    "n_exit": 1
+  },
+  {
+    "ticker": "MMM",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:26.481999",
+    "close": 180.94,
+    "rsi": 61.9,
+    "macd_hist": -0.5322,
+    "vol_rel10": 0.86,
+    "ema20": 177.61,
+    "entry_flags_active": [
+      "ADX_Strong"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak"
+    ],
+    "n_entry": 1,
+    "n_exit": 1
+  },
+  {
+    "ticker": "MNSO",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:27.162029",
+    "close": 10.68,
+    "rsi": 27.9,
+    "macd_hist": -0.197,
+    "vol_rel10": 1.16,
+    "ema20": 12.0,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "OBV_Div_Down",
+      "Williams_Oversold",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 4,
+    "n_exit": 5
+  },
+  {
+    "ticker": "MP",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:27.808559",
+    "close": 56.67,
+    "rsi": 61.7,
+    "macd_hist": 1.6465,
+    "vol_rel10": 0.6,
+    "ema20": 51.88,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "Williams_Overbought",
+      "ROC_Momentum_Up",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 4,
+    "n_exit": 1
+  },
+  {
+    "ticker": "MRK",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:28.509865",
+    "close": 135.17,
+    "rsi": 65.6,
+    "macd_hist": 0.4448,
+    "vol_rel10": 1.25,
+    "ema20": 130.98,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ROC_Momentum_Up"
+    ],
+    "exit_flags_active": [],
+    "n_entry": 2,
+    "n_exit": 0
+  },
+  {
+    "ticker": "NEE",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:29.158304",
+    "close": 86.22,
+    "rsi": 45.4,
+    "macd_hist": -0.0194,
+    "vol_rel10": 1.09,
+    "ema20": 86.6,
+    "entry_flags_active": [
+      "OBV_Div_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 1,
+    "n_exit": 5
+  },
+  {
+    "ticker": "NKE",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:29.814127",
+    "close": 40.06,
+    "rsi": 41.5,
+    "macd_hist": -0.2024,
+    "vol_rel10": 1.38,
+    "ema20": 41.5,
+    "entry_flags_active": [
+      "BB_Squeeze",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 5
+  },
+  {
+    "ticker": "NOW",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:30.505645",
+    "close": 119.49,
+    "rsi": 56.0,
+    "macd_hist": 0.1149,
+    "vol_rel10": 0.98,
+    "ema20": 116.83,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 2
+  },
+  {
+    "ticker": "NU",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:31.153015",
+    "close": 14.35,
+    "rsi": 53.4,
+    "macd_hist": 0.0021,
+    "vol_rel10": 1.23,
+    "ema20": 14.17,
+    "entry_flags_active": [
+      "BB_Squeeze",
+      "OBV_Div_Down",
+      "ROC_Momentum_Up",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 4,
+    "n_exit": 3
+  },
+  {
+    "ticker": "NVO",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:31.850857",
+    "close": 45.71,
+    "rsi": 44.1,
+    "macd_hist": -0.2829,
+    "vol_rel10": 0.98,
+    "ema20": 46.98,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "OBV_Div_Down",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 4
+  },
+  {
+    "ticker": "O",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:32.512451",
+    "close": 62.21,
+    "rsi": 42.0,
+    "macd_hist": -0.1749,
+    "vol_rel10": 0.7,
+    "ema20": 63.04,
+    "entry_flags_active": [
+      "ADX_Weak",
+      "Williams_Oversold"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 3
+  },
+  {
+    "ticker": "OKLO",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:33.166268",
+    "close": 41.36,
+    "rsi": 42.6,
+    "macd_hist": 0.4723,
+    "vol_rel10": 0.75,
+    "ema20": 44.42,
+    "entry_flags_active": [
+      "BB_Squeeze",
+      "ADX_Strong",
+      "OBV_Div_Up",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 5,
+    "n_exit": 5
+  },
+  {
+    "ticker": "ONON",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:33.845142",
+    "close": 31.03,
+    "rsi": 34.9,
+    "macd_hist": -0.655,
+    "vol_rel10": 0.77,
+    "ema20": 34.67,
+    "entry_flags_active": [
+      "ADX_Weak",
+      "Williams_Oversold",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 5
+  },
+  {
+    "ticker": "ORCL",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:34.481760",
+    "close": 142.79,
+    "rsi": 49.0,
+    "macd_hist": 2.2241,
+    "vol_rel10": 0.75,
+    "ema20": 143.29,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 5
+  },
+  {
+    "ticker": "OSCR",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:35.144658",
+    "close": 31.28,
+    "rsi": 56.0,
+    "macd_hist": 0.2054,
+    "vol_rel10": 0.58,
+    "ema20": 30.02,
+    "entry_flags_active": [
+      "ADX_Weak",
+      "OBV_Div_Down",
+      "ROC_Momentum_Up",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 4,
+    "n_exit": 2
+  },
+  {
+    "ticker": "OXY",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:35.843012",
+    "close": 59.8,
+    "rsi": 62.9,
+    "macd_hist": 0.2881,
+    "vol_rel10": 0.91,
+    "ema20": 56.94,
+    "entry_flags_active": [
+      "BB_Squeeze",
+      "ADX_Weak",
+      "Williams_Overbought"
+    ],
+    "exit_flags_active": [],
+    "n_entry": 3,
+    "n_exit": 0
+  },
+  {
+    "ticker": "PAGS",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:36.477731",
+    "close": 8.44,
+    "rsi": 32.0,
+    "macd_hist": -0.1099,
+    "vol_rel10": 0.85,
+    "ema20": 9.04,
+    "entry_flags_active": [
+      "OBV_Div_Down",
+      "Williams_Oversold",
+      "MFI_Oversold",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 4,
+    "n_exit": 5
+  },
+  {
+    "ticker": "PATH",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:37.100770",
+    "close": 15.58,
+    "rsi": 65.3,
+    "macd_hist": 0.1839,
+    "vol_rel10": 1.27,
+    "ema20": 14.24,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 2
+  },
+  {
+    "ticker": "PFE",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:37.748641",
+    "close": 27.25,
+    "rsi": 68.5,
+    "macd_hist": 0.1448,
+    "vol_rel10": 0.9,
+    "ema20": 26.05,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "Williams_Overbought",
+      "ROC_Momentum_Up"
+    ],
+    "exit_flags_active": [],
+    "n_entry": 3,
+    "n_exit": 0
+  },
+  {
+    "ticker": "PG",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:38.435031",
+    "close": 143.45,
+    "rsi": 41.6,
+    "macd_hist": -0.3166,
+    "vol_rel10": 1.48,
+    "ema20": 145.74,
+    "entry_flags_active": [
+      "ADX_Weak",
+      "OBV_Div_Up"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 5
+  },
+  {
+    "ticker": "PLD",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:39.140168",
+    "close": 140.02,
+    "rsi": 43.9,
+    "macd_hist": -0.2683,
+    "vol_rel10": 0.63,
+    "ema20": 141.83,
+    "entry_flags_active": [
+      "ADX_Strong"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 1,
+    "n_exit": 4
+  },
+  {
+    "ticker": "RBRK",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:39.837246",
+    "close": 100.55,
+    "rsi": 69.2,
+    "macd_hist": 1.9993,
+    "vol_rel10": 0.9,
+    "ema20": 89.81,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "OBV_Div_Down",
+      "Williams_Overbought",
+      "ROC_Momentum_Up",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 5,
+    "n_exit": 1
+  },
+  {
+    "ticker": "SAP",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:40.452219",
+    "close": 210.47,
+    "rsi": 73.3,
+    "macd_hist": 1.4839,
+    "vol_rel10": 1.1,
+    "ema20": 193.22,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "Williams_Overbought",
+      "MFI_Overbought"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak"
+    ],
+    "n_entry": 3,
+    "n_exit": 1
+  },
+  {
+    "ticker": "SE",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:41.122046",
+    "close": 116.26,
+    "rsi": 54.9,
+    "macd_hist": 0.1353,
+    "vol_rel10": 0.74,
+    "ema20": 114.51,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 3
+  },
+  {
+    "ticker": "SHAK",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:41.749513",
+    "close": 70.99,
+    "rsi": 60.2,
+    "macd_hist": 0.4697,
+    "vol_rel10": 0.48,
+    "ema20": 68.12,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 2
+  },
+  {
+    "ticker": "SMR",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:42.448305",
+    "close": 8.64,
+    "rsi": 44.1,
+    "macd_hist": 0.0369,
+    "vol_rel10": 1.02,
+    "ema20": 9.19,
+    "entry_flags_active": [
+      "BB_Squeeze",
+      "ADX_Strong",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 4,
+    "n_exit": 5
+  },
+  {
+    "ticker": "SQM",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:43.148238",
+    "close": 74.47,
+    "rsi": 57.6,
+    "macd_hist": 0.8732,
+    "vol_rel10": 1.1,
+    "ema20": 71.87,
+    "entry_flags_active": [
+      "BB_Squeeze",
+      "ADX_Strong",
+      "Williams_Overbought",
+      "ROC_Momentum_Up"
+    ],
+    "exit_flags_active": [],
+    "n_entry": 4,
+    "n_exit": 0
+  },
+  {
+    "ticker": "TAP",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:43.803610",
+    "close": 41.13,
+    "rsi": 48.4,
+    "macd_hist": -0.1495,
+    "vol_rel10": 0.96,
+    "ema20": 41.58,
+    "entry_flags_active": [
+      "BB_Squeeze",
+      "ADX_Strong",
+      "Williams_Oversold",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 4,
+    "n_exit": 4
+  },
+  {
+    "ticker": "TGT",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:44.488893",
+    "close": 152.48,
+    "rsi": 64.6,
+    "macd_hist": 0.1268,
+    "vol_rel10": 1.37,
+    "ema20": 147.62,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "OBV_Div_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak"
+    ],
+    "n_entry": 2,
+    "n_exit": 1
+  },
+  {
+    "ticker": "TM",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:45.159260",
+    "close": 188.25,
+    "rsi": 55.7,
+    "macd_hist": -0.0591,
+    "vol_rel10": 0.88,
+    "ema20": 186.3,
+    "entry_flags_active": [
+      "ADX_Strong"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak"
+    ],
+    "n_entry": 1,
+    "n_exit": 1
+  },
+  {
+    "ticker": "TSM",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:45.849834",
+    "close": 413.41,
+    "rsi": 46.4,
+    "macd_hist": 1.7352,
+    "vol_rel10": 1.38,
+    "ema20": 419.82,
+    "entry_flags_active": [
+      "BB_Squeeze",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 4
+  },
+  {
+    "ticker": "UBER",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:46.498264",
+    "close": 74.66,
+    "rsi": 53.5,
+    "macd_hist": 0.3887,
+    "vol_rel10": 0.67,
+    "ema20": 73.65,
+    "entry_flags_active": [
+      "OBV_Div_Down",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 3
+  },
+  {
+    "ticker": "UNH",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:47.160152",
+    "close": 393.93,
+    "rsi": 38.3,
+    "macd_hist": -2.4661,
+    "vol_rel10": 0.89,
+    "ema20": 408.27,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "OBV_Div_Up",
+      "Williams_Oversold",
+      "MFI_Oversold",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 5,
+    "n_exit": 3
+  },
+  {
+    "ticker": "VEEV",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:47.795626",
+    "close": 242.75,
+    "rsi": 70.9,
+    "macd_hist": 2.0813,
+    "vol_rel10": 0.84,
+    "ema20": 221.56,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "Williams_Overbought",
+      "MFI_Overbought",
+      "ROC_Momentum_Up"
+    ],
+    "exit_flags_active": [
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 4,
+    "n_exit": 1
+  },
+  {
+    "ticker": "WELL",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:48.423174",
+    "close": 235.44,
+    "rsi": 51.4,
+    "macd_hist": -0.8716,
+    "vol_rel10": 0.64,
+    "ema20": 235.16,
+    "entry_flags_active": [
+      "ROC_Momentum_Up"
+    ],
+    "exit_flags_active": [
+      "EXIT_VSA_NoDemand",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 1,
+    "n_exit": 4
+  },
+  {
+    "ticker": "WSM",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:49.107906",
+    "close": 241.39,
+    "rsi": 55.7,
+    "macd_hist": -0.8908,
+    "vol_rel10": 0.69,
+    "ema20": 239.29,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "OBV_Div_Down",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 3
+  },
+  {
+    "ticker": "XOM",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:49.752903",
+    "close": 165.56,
+    "rsi": 71.2,
+    "macd_hist": 0.5684,
+    "vol_rel10": 1.34,
+    "ema20": 156.18,
+    "entry_flags_active": [
+      "Stoch_Extreme",
+      "BB_Breakout",
+      "Williams_Overbought",
+      "ROC_Momentum_Up"
+    ],
+    "exit_flags_active": [],
+    "n_entry": 4,
+    "n_exit": 0
+  },
+  {
+    "ticker": "ZTS",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:50.356578",
+    "close": 73.96,
+    "rsi": 46.0,
+    "macd_hist": -0.096,
+    "vol_rel10": 0.48,
+    "ema20": 75.02,
+    "entry_flags_active": [
+      "ADX_Weak",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 2,
+    "n_exit": 5
+  },
+  {
+    "ticker": "PUM.DE",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:51.002068",
+    "close": 25.83,
+    "rsi": 35.8,
+    "macd_hist": -0.2084,
+    "vol_rel10": 0.8,
+    "ema20": 27.08,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "Williams_Oversold",
+      "ROC_Momentum_Down"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 4
+  },
+  {
+    "ticker": "QUBT",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:51.661083",
+    "close": 8.52,
+    "rsi": 46.6,
+    "macd_hist": 0.0723,
+    "vol_rel10": 0.95,
+    "ema20": 8.73,
+    "entry_flags_active": [
+      "OBV_Div_Up",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 3,
+    "n_exit": 5
+  },
+  {
+    "ticker": "MARA",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:52.340378",
+    "close": 8.96,
+    "rsi": 32.5,
+    "macd_hist": -0.1369,
+    "vol_rel10": 1.11,
+    "ema20": 10.55,
+    "entry_flags_active": [
+      "ADX_Strong",
+      "Williams_Oversold",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 4,
+    "n_exit": 5
+  },
+  {
+    "ticker": "RIOT",
+    "date": "2026-08-18",
+    "generated_at": "2026-08-19T03:35:52.979760",
+    "close": 18.91,
+    "rsi": 40.0,
+    "macd_hist": -0.0775,
+    "vol_rel10": 0.62,
+    "ema20": 20.62,
+    "entry_flags_active": [
+      "ADX_Weak",
+      "Williams_Oversold",
+      "ROC_Momentum_Down",
+      "ATR_Pct_High"
+    ],
+    "exit_flags_active": [
+      "EXIT_Weinstein_Stage3",
+      "EXIT_Oneil_PivotBreak",
+      "EXIT_Darvas_BoxBreak",
+      "EXIT_Minervini_TrendLost",
+      "EXIT_Livermore_Pivot"
+    ],
+    "n_entry": 4,
+    "n_exit": 5
+  }
+]

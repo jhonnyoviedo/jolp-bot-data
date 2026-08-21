@@ -1,0 +1,2443 @@
+{
+  "as_of": "2026-08-21T04:09:35.649939",
+  "methodology": "P/E_mes = Price_mes / EPS_del_trimestre_m\u00e1s_reciente",
+  "tickers_count": 84,
+  "data": {
+    "ABNB": {
+      "ticker": "ABNB",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 151.52,
+          "eps_at_time": 1.3668,
+          "pe": 110.85
+        },
+        {
+          "month": "2026-08",
+          "price": 185.0,
+          "eps_at_time": 1.3668,
+          "pe": 135.35
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 123.1,
+        "median_pe": 123.1,
+        "stdev_pe": 12.25,
+        "min_pe": 110.85,
+        "max_pe": 135.35,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 135.35,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.670224"
+    },
+    "ADBE": {
+      "ticker": "ADBE",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 250.41,
+          "eps_at_time": 4.2587,
+          "pe": 58.8
+        },
+        {
+          "month": "2026-08",
+          "price": 272.22,
+          "eps_at_time": 4.2587,
+          "pe": 63.92
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 61.36,
+        "median_pe": 61.36,
+        "stdev_pe": 2.56,
+        "min_pe": 58.8,
+        "max_pe": 63.92,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 63.92,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.676712"
+    },
+    "AMD": {
+      "ticker": "AMD",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 476.15,
+          "eps_at_time": 1.3846,
+          "pe": 343.9
+        },
+        {
+          "month": "2026-08",
+          "price": 469.45,
+          "eps_at_time": 1.3846,
+          "pe": 339.06
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 341.48,
+        "median_pe": 341.48,
+        "stdev_pe": 2.42,
+        "min_pe": 339.06,
+        "max_pe": 343.9,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 339.06,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:35.681827"
+    },
+    "AMZN": {
+      "ticker": "AMZN",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 271.58,
+          "eps_at_time": 2.7823,
+          "pe": 97.61
+        },
+        {
+          "month": "2026-08",
+          "price": 260.11,
+          "eps_at_time": 2.7823,
+          "pe": 93.49
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 95.55,
+        "median_pe": 95.55,
+        "stdev_pe": 2.06,
+        "min_pe": 93.49,
+        "max_pe": 97.61,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 93.49,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:35.686817"
+    },
+    "ASML": {
+      "ticker": "ASML",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 1629.0,
+          "eps_at_time": 7.5429,
+          "pe": 215.96
+        },
+        {
+          "month": "2026-08",
+          "price": 1750.31,
+          "eps_at_time": 7.5429,
+          "pe": 232.05
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 224.0,
+        "median_pe": 224.0,
+        "stdev_pe": 8.05,
+        "min_pe": 215.96,
+        "max_pe": 232.05,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 232.05,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.692029"
+    },
+    "BIDU": {
+      "ticker": "BIDU",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 111.11,
+          "eps_at_time": 1.4456,
+          "pe": 76.86
+        },
+        {
+          "month": "2026-08",
+          "price": 91.97,
+          "eps_at_time": 1.4456,
+          "pe": 63.62
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 70.24,
+        "median_pe": 70.24,
+        "stdev_pe": 6.62,
+        "min_pe": 63.62,
+        "max_pe": 76.86,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 63.62,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:35.701808"
+    },
+    "BKNG": {
+      "ticker": "BKNG",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 192.9,
+          "eps_at_time": 2.5325,
+          "pe": 76.17
+        },
+        {
+          "month": "2026-08",
+          "price": 209.87,
+          "eps_at_time": 2.5325,
+          "pe": 82.87
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 79.52,
+        "median_pe": 79.52,
+        "stdev_pe": 3.35,
+        "min_pe": 76.17,
+        "max_pe": 82.87,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 82.87,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.707016"
+    },
+    "CAKE": {
+      "ticker": "CAKE",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 101.42,
+          "eps_at_time": 1.4105,
+          "pe": 71.9
+        },
+        {
+          "month": "2026-08",
+          "price": 106.53,
+          "eps_at_time": 1.4105,
+          "pe": 75.53
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 73.72,
+        "median_pe": 73.72,
+        "stdev_pe": 1.81,
+        "min_pe": 71.9,
+        "max_pe": 75.53,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 75.53,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.712276"
+    },
+    "CELH": {
+      "ticker": "CELH",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 29.21,
+          "eps_at_time": 0.1418,
+          "pe": 206.06
+        },
+        {
+          "month": "2026-08",
+          "price": 32.54,
+          "eps_at_time": 0.1418,
+          "pe": 229.55
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 217.81,
+        "median_pe": 217.81,
+        "stdev_pe": 11.75,
+        "min_pe": 206.06,
+        "max_pe": 229.55,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 229.55,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.718350"
+    },
+    "CROX": {
+      "ticker": "CROX",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 128.01,
+          "eps_at_time": 4.1285,
+          "pe": 31.01
+        },
+        {
+          "month": "2026-08",
+          "price": 123.09,
+          "eps_at_time": 4.1285,
+          "pe": 29.82
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 30.41,
+        "median_pe": 30.41,
+        "stdev_pe": 0.6,
+        "min_pe": 29.82,
+        "max_pe": 31.01,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 29.82,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:35.729093"
+    },
+    "DLO": {
+      "ticker": "DLO",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 15.08,
+          "eps_at_time": 0.14,
+          "pe": 107.71
+        },
+        {
+          "month": "2026-08",
+          "price": 14.34,
+          "eps_at_time": 0.14,
+          "pe": 102.43
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 105.07,
+        "median_pe": 105.07,
+        "stdev_pe": 2.64,
+        "min_pe": 102.43,
+        "max_pe": 107.71,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 102.43,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:35.733623"
+    },
+    "DOCU": {
+      "ticker": "DOCU",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 54.83,
+          "eps_at_time": 0.398,
+          "pe": 137.77
+        },
+        {
+          "month": "2026-08",
+          "price": 62.28,
+          "eps_at_time": 0.398,
+          "pe": 156.49
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 147.13,
+        "median_pe": 147.13,
+        "stdev_pe": 9.36,
+        "min_pe": 137.77,
+        "max_pe": 156.49,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 156.49,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.739173"
+    },
+    "DPZ": {
+      "ticker": "DPZ",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 347.44,
+          "eps_at_time": 4.0743,
+          "pe": 85.28
+        },
+        {
+          "month": "2026-08",
+          "price": 334.37,
+          "eps_at_time": 4.0743,
+          "pe": 82.07
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 83.67,
+        "median_pe": 83.67,
+        "stdev_pe": 1.61,
+        "min_pe": 82.07,
+        "max_pe": 85.28,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 82.07,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:35.744217"
+    },
+    "DUOL": {
+      "ticker": "DUOL",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 134.81,
+          "eps_at_time": 0.6627,
+          "pe": 203.41
+        },
+        {
+          "month": "2026-08",
+          "price": 147.03,
+          "eps_at_time": 0.6627,
+          "pe": 221.85
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 212.63,
+        "median_pe": 212.63,
+        "stdev_pe": 9.22,
+        "min_pe": 203.41,
+        "max_pe": 221.85,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 221.85,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.748979"
+    },
+    "EXPE": {
+      "ticker": "EXPE",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 294.74,
+          "eps_at_time": 7.1643,
+          "pe": 41.14
+        },
+        {
+          "month": "2026-08",
+          "price": 324.17,
+          "eps_at_time": 7.1643,
+          "pe": 45.25
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 43.2,
+        "median_pe": 43.2,
+        "stdev_pe": 2.05,
+        "min_pe": 41.14,
+        "max_pe": 45.25,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 45.25,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.753553"
+    },
+    "FISV": {
+      "ticker": "FISV",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 53.94,
+          "eps_at_time": 1.1748,
+          "pe": 45.91
+        },
+        {
+          "month": "2026-08",
+          "price": 51.38,
+          "eps_at_time": 1.1748,
+          "pe": 43.73
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 44.82,
+        "median_pe": 44.82,
+        "stdev_pe": 1.09,
+        "min_pe": 43.73,
+        "max_pe": 45.91,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 43.73,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:35.758192"
+    },
+    "FIVE": {
+      "ticker": "FIVE",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 217.13,
+          "eps_at_time": 2.2129,
+          "pe": 98.12
+        },
+        {
+          "month": "2026-08",
+          "price": 236.31,
+          "eps_at_time": 2.2129,
+          "pe": 106.79
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 102.46,
+        "median_pe": 102.46,
+        "stdev_pe": 4.34,
+        "min_pe": 98.12,
+        "max_pe": 106.79,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 106.79,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.762557"
+    },
+    "GOOG": {
+      "ticker": "GOOG",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 356.65,
+          "eps_at_time": 9.1147,
+          "pe": 39.13
+        },
+        {
+          "month": "2026-08",
+          "price": 338.2,
+          "eps_at_time": 9.1147,
+          "pe": 37.1
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 38.12,
+        "median_pe": 38.12,
+        "stdev_pe": 1.02,
+        "min_pe": 37.1,
+        "max_pe": 39.13,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 37.1,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:35.767019"
+    },
+    "GRAB": {
+      "ticker": "GRAB",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 3.5,
+          "eps_at_time": 0.0605,
+          "pe": 57.89
+        },
+        {
+          "month": "2026-08",
+          "price": 3.51,
+          "eps_at_time": 0.0605,
+          "pe": 58.06
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 57.98,
+        "median_pe": 57.98,
+        "stdev_pe": 0.09,
+        "min_pe": 57.89,
+        "max_pe": 58.06,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 58.06,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.772013"
+    },
+    "INTU": {
+      "ticker": "INTU",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 316.07,
+          "eps_at_time": 11.1014,
+          "pe": 28.47
+        },
+        {
+          "month": "2026-08",
+          "price": 361.87,
+          "eps_at_time": 11.1014,
+          "pe": 32.6
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 30.54,
+        "median_pe": 30.54,
+        "stdev_pe": 2.07,
+        "min_pe": 28.47,
+        "max_pe": 32.6,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 32.6,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.776613"
+    },
+    "JD": {
+      "ticker": "JD",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 33.01,
+          "eps_at_time": 0.5164,
+          "pe": 63.93
+        },
+        {
+          "month": "2026-08",
+          "price": 29.41,
+          "eps_at_time": 0.5164,
+          "pe": 56.96
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 60.45,
+        "median_pe": 60.45,
+        "stdev_pe": 3.48,
+        "min_pe": 56.96,
+        "max_pe": 63.93,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 56.96,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:35.785286"
+    },
+    "LULU": {
+      "ticker": "LULU",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 118.87,
+          "eps_at_time": 1.689,
+          "pe": 70.38
+        },
+        {
+          "month": "2026-08",
+          "price": 115.69,
+          "eps_at_time": 1.689,
+          "pe": 68.5
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 69.44,
+        "median_pe": 69.44,
+        "stdev_pe": 0.94,
+        "min_pe": 68.5,
+        "max_pe": 70.38,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 68.5,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:35.789855"
+    },
+    "MDB": {
+      "ticker": "MDB",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 337.48,
+          "eps_at_time": 0.0544,
+          "pe": 6209.31
+        },
+        {
+          "month": "2026-08",
+          "price": 420.37,
+          "eps_at_time": 0.0544,
+          "pe": 7734.41
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 6971.86,
+        "median_pe": 6971.86,
+        "stdev_pe": 762.55,
+        "min_pe": 6209.31,
+        "max_pe": 7734.41,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 7734.41,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.794136"
+    },
+    "MDLZ": {
+      "ticker": "MDLZ",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 62.31,
+          "eps_at_time": 0.4355,
+          "pe": 143.08
+        },
+        {
+          "month": "2026-08",
+          "price": 64.14,
+          "eps_at_time": 0.4355,
+          "pe": 147.29
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 145.19,
+        "median_pe": 145.19,
+        "stdev_pe": 2.1,
+        "min_pe": 143.08,
+        "max_pe": 147.29,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 147.29,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.798339"
+    },
+    "MELI": {
+      "ticker": "MELI",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 1877.95,
+          "eps_at_time": 9.1918,
+          "pe": 204.31
+        },
+        {
+          "month": "2026-08",
+          "price": 1921.96,
+          "eps_at_time": 9.1918,
+          "pe": 209.09
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 206.7,
+        "median_pe": 206.7,
+        "stdev_pe": 2.39,
+        "min_pe": 204.31,
+        "max_pe": 209.09,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 209.09,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.803715"
+    },
+    "META": {
+      "ticker": "META",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 556.71,
+          "eps_at_time": 6.1761,
+          "pe": 90.14
+        },
+        {
+          "month": "2026-08",
+          "price": 545.83,
+          "eps_at_time": 6.1761,
+          "pe": 88.38
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 89.26,
+        "median_pe": 89.26,
+        "stdev_pe": 0.88,
+        "min_pe": 88.38,
+        "max_pe": 90.14,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 88.38,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:35.808548"
+    },
+    "MNDY": {
+      "ticker": "MNDY",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 87.15,
+          "eps_at_time": 0.5738,
+          "pe": 151.88
+        },
+        {
+          "month": "2026-08",
+          "price": 91.3,
+          "eps_at_time": 0.5738,
+          "pe": 159.12
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 155.5,
+        "median_pe": 155.5,
+        "stdev_pe": 3.62,
+        "min_pe": 151.88,
+        "max_pe": 159.12,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 159.12,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.813497"
+    },
+    "MNST": {
+      "ticker": "MNST",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 96.38,
+          "eps_at_time": 0.5914,
+          "pe": 162.98
+        },
+        {
+          "month": "2026-08",
+          "price": 47.49,
+          "eps_at_time": 0.5914,
+          "pe": 80.31
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 121.64,
+        "median_pe": 121.64,
+        "stdev_pe": 41.33,
+        "min_pe": 80.31,
+        "max_pe": 162.98,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 80.31,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:35.818258"
+    },
+    "MSFT": {
+      "ticker": "MSFT",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 464.72,
+          "eps_at_time": 4.8053,
+          "pe": 96.71
+        },
+        {
+          "month": "2026-08",
+          "price": 481.15,
+          "eps_at_time": 4.8053,
+          "pe": 100.13
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 98.42,
+        "median_pe": 98.42,
+        "stdev_pe": 1.71,
+        "min_pe": 96.71,
+        "max_pe": 100.13,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 100.13,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.823100"
+    },
+    "NFLX": {
+      "ticker": "NFLX",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 71.71,
+          "eps_at_time": 0.7982,
+          "pe": 89.84
+        },
+        {
+          "month": "2026-08",
+          "price": 80.14,
+          "eps_at_time": 0.7982,
+          "pe": 100.4
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 95.12,
+        "median_pe": 95.12,
+        "stdev_pe": 5.28,
+        "min_pe": 89.84,
+        "max_pe": 100.4,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 100.4,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.827238"
+    },
+    "NVDA": {
+      "ticker": "NVDA",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 200.75,
+          "eps_at_time": 2.3911,
+          "pe": 83.96
+        },
+        {
+          "month": "2026-08",
+          "price": 216.85,
+          "eps_at_time": 2.3911,
+          "pe": 90.69
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 87.32,
+        "median_pe": 87.32,
+        "stdev_pe": 3.37,
+        "min_pe": 83.96,
+        "max_pe": 90.69,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 90.69,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.831098"
+    },
+    "OLLI": {
+      "ticker": "OLLI",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 73.47,
+          "eps_at_time": 0.9217,
+          "pe": 79.71
+        },
+        {
+          "month": "2026-08",
+          "price": 74.75,
+          "eps_at_time": 0.9217,
+          "pe": 81.1
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 80.41,
+        "median_pe": 80.41,
+        "stdev_pe": 0.7,
+        "min_pe": 79.71,
+        "max_pe": 81.1,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 81.1,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.835419"
+    },
+    "PDD": {
+      "ticker": "PDD",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 88.56,
+          "eps_at_time": 1.2291,
+          "pe": 72.05
+        },
+        {
+          "month": "2026-08",
+          "price": 89.52,
+          "eps_at_time": 1.2291,
+          "pe": 72.83
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 72.44,
+        "median_pe": 72.44,
+        "stdev_pe": 0.39,
+        "min_pe": 72.05,
+        "max_pe": 72.83,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 72.83,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.840755"
+    },
+    "PEP": {
+      "ticker": "PEP",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 139.56,
+          "eps_at_time": 2.1775,
+          "pe": 64.09
+        },
+        {
+          "month": "2026-08",
+          "price": 142.08,
+          "eps_at_time": 2.1775,
+          "pe": 65.25
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 64.67,
+        "median_pe": 64.67,
+        "stdev_pe": 0.58,
+        "min_pe": 64.09,
+        "max_pe": 65.25,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 65.25,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.845558"
+    },
+    "PYPL": {
+      "ticker": "PYPL",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 57.21,
+          "eps_at_time": 1.2517,
+          "pe": 45.71
+        },
+        {
+          "month": "2026-08",
+          "price": 62.3,
+          "eps_at_time": 1.2517,
+          "pe": 49.77
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 47.74,
+        "median_pe": 47.74,
+        "stdev_pe": 2.03,
+        "min_pe": 45.71,
+        "max_pe": 49.77,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 49.77,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.849832"
+    },
+    "SBUX": {
+      "ticker": "SBUX",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 105.25,
+          "eps_at_time": 0.9139,
+          "pe": 115.17
+        },
+        {
+          "month": "2026-08",
+          "price": 103.99,
+          "eps_at_time": 0.9139,
+          "pe": 113.79
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 114.48,
+        "median_pe": 114.48,
+        "stdev_pe": 0.69,
+        "min_pe": 113.79,
+        "max_pe": 115.17,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 113.79,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:35.858206"
+    },
+    "STNE": {
+      "ticker": "STNE",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 11.38,
+          "eps_at_time": 1.3004,
+          "pe": 8.75
+        },
+        {
+          "month": "2026-08",
+          "price": 9.16,
+          "eps_at_time": 1.3004,
+          "pe": 7.04
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 7.89,
+        "median_pe": 7.89,
+        "stdev_pe": 0.85,
+        "min_pe": 7.04,
+        "max_pe": 8.75,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 7.04,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:35.862355"
+    },
+    "TSLA": {
+      "ticker": "TSLA",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 311.21,
+          "eps_at_time": 0.3147,
+          "pe": 988.94
+        },
+        {
+          "month": "2026-08",
+          "price": 345.13,
+          "eps_at_time": 0.3147,
+          "pe": 1096.73
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 1042.84,
+        "median_pe": 1042.84,
+        "stdev_pe": 53.89,
+        "min_pe": 988.94,
+        "max_pe": 1096.73,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 1096.73,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.870703"
+    },
+    "ULTA": {
+      "ticker": "ULTA",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 512.83,
+          "eps_at_time": 7.7443,
+          "pe": 66.22
+        },
+        {
+          "month": "2026-08",
+          "price": 515.14,
+          "eps_at_time": 7.7443,
+          "pe": 66.52
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 66.37,
+        "median_pe": 66.37,
+        "stdev_pe": 0.15,
+        "min_pe": 66.22,
+        "max_pe": 66.52,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 66.52,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.874846"
+    },
+    "WDAY": {
+      "ticker": "WDAY",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 160.34,
+          "eps_at_time": 0.8729,
+          "pe": 183.68
+        },
+        {
+          "month": "2026-08",
+          "price": 197.32,
+          "eps_at_time": 0.8729,
+          "pe": 226.04
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 204.86,
+        "median_pe": 204.86,
+        "stdev_pe": 21.18,
+        "min_pe": 183.68,
+        "max_pe": 226.04,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 226.04,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.879984"
+    },
+    "XP": {
+      "ticker": "XP",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 17.06,
+          "eps_at_time": 0.4926,
+          "pe": 34.63
+        },
+        {
+          "month": "2026-08",
+          "price": 15.99,
+          "eps_at_time": 0.4926,
+          "pe": 32.46
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 33.55,
+        "median_pe": 33.55,
+        "stdev_pe": 1.09,
+        "min_pe": 32.46,
+        "max_pe": 34.63,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 32.46,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:35.889084"
+    },
+    "ABEV": {
+      "ticker": "ABEV",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 3.11,
+          "eps_at_time": 0.2144,
+          "pe": 14.51
+        },
+        {
+          "month": "2026-08",
+          "price": 2.83,
+          "eps_at_time": 0.2144,
+          "pe": 13.2
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 13.86,
+        "median_pe": 13.86,
+        "stdev_pe": 0.66,
+        "min_pe": 13.2,
+        "max_pe": 14.51,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 13.2,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:35.893725"
+    },
+    "BABA": {
+      "ticker": "BABA",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 122.25,
+          "eps_at_time": 1.5334,
+          "pe": 79.73
+        },
+        {
+          "month": "2026-08",
+          "price": 130.53,
+          "eps_at_time": 1.5334,
+          "pe": 85.13
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 82.43,
+        "median_pe": 82.43,
+        "stdev_pe": 2.7,
+        "min_pe": 79.73,
+        "max_pe": 85.13,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 85.13,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.898495"
+    },
+    "BMY": {
+      "ticker": "BMY",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 65.31,
+          "eps_at_time": 1.6196,
+          "pe": 40.32
+        },
+        {
+          "month": "2026-08",
+          "price": 65.47,
+          "eps_at_time": 1.6196,
+          "pe": 40.42
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 40.37,
+        "median_pe": 40.37,
+        "stdev_pe": 0.05,
+        "min_pe": 40.32,
+        "max_pe": 40.42,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 40.42,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.903103"
+    },
+    "BSX": {
+      "ticker": "BSX",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 46.73,
+          "eps_at_time": 0.615,
+          "pe": 75.98
+        },
+        {
+          "month": "2026-08",
+          "price": 49.37,
+          "eps_at_time": 0.615,
+          "pe": 80.28
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 78.13,
+        "median_pe": 78.13,
+        "stdev_pe": 2.15,
+        "min_pe": 75.98,
+        "max_pe": 80.28,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 80.28,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.907761"
+    },
+    "CMG": {
+      "ticker": "CMG",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 37.22,
+          "eps_at_time": 0.3155,
+          "pe": 117.97
+        },
+        {
+          "month": "2026-08",
+          "price": 35.29,
+          "eps_at_time": 0.3155,
+          "pe": 111.85
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 114.91,
+        "median_pe": 114.91,
+        "stdev_pe": 3.06,
+        "min_pe": 111.85,
+        "max_pe": 117.97,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 111.85,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:35.912867"
+    },
+    "CNC": {
+      "ticker": "CNC",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 62.22,
+          "eps_at_time": 2.1924,
+          "pe": 28.38
+        },
+        {
+          "month": "2026-08",
+          "price": 64.14,
+          "eps_at_time": 2.1924,
+          "pe": 29.26
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 28.82,
+        "median_pe": 28.82,
+        "stdev_pe": 0.44,
+        "min_pe": 28.38,
+        "max_pe": 29.26,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 29.26,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.918022"
+    },
+    "CRCL": {
+      "ticker": "CRCL",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 62.61,
+          "eps_at_time": 0.1795,
+          "pe": 348.8
+        },
+        {
+          "month": "2026-08",
+          "price": 83.66,
+          "eps_at_time": 0.1795,
+          "pe": 466.07
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 407.44,
+        "median_pe": 407.44,
+        "stdev_pe": 58.63,
+        "min_pe": 348.8,
+        "max_pe": 466.07,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 466.07,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.922949"
+    },
+    "CRM": {
+      "ticker": "CRM",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 184.02,
+          "eps_at_time": 2.4191,
+          "pe": 76.07
+        },
+        {
+          "month": "2026-08",
+          "price": 205.43,
+          "eps_at_time": 2.4191,
+          "pe": 84.92
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 80.5,
+        "median_pe": 80.5,
+        "stdev_pe": 4.43,
+        "min_pe": 76.07,
+        "max_pe": 84.92,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 84.92,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.927764"
+    },
+    "CVS": {
+      "ticker": "CVS",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 104.43,
+          "eps_at_time": 2.3147,
+          "pe": 45.12
+        },
+        {
+          "month": "2026-08",
+          "price": 93.65,
+          "eps_at_time": 2.3147,
+          "pe": 40.46
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 42.79,
+        "median_pe": 42.79,
+        "stdev_pe": 2.33,
+        "min_pe": 40.46,
+        "max_pe": 45.12,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 40.46,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:35.932354"
+    },
+    "DE": {
+      "ticker": "DE",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 592.67,
+          "eps_at_time": 6.5473,
+          "pe": 90.52
+        },
+        {
+          "month": "2026-08",
+          "price": 620.94,
+          "eps_at_time": 6.5473,
+          "pe": 94.84
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 92.68,
+        "median_pe": 92.68,
+        "stdev_pe": 2.16,
+        "min_pe": 90.52,
+        "max_pe": 94.84,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 94.84,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.936559"
+    },
+    "DECK": {
+      "ticker": "DECK",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 96.88,
+          "eps_at_time": 0.938,
+          "pe": 103.28
+        },
+        {
+          "month": "2026-08",
+          "price": 88.86,
+          "eps_at_time": 0.938,
+          "pe": 94.73
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 99.0,
+        "median_pe": 99.0,
+        "stdev_pe": 4.27,
+        "min_pe": 94.73,
+        "max_pe": 103.28,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 94.73,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:35.941453"
+    },
+    "DG": {
+      "ticker": "DG",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 127.05,
+          "eps_at_time": 2.0046,
+          "pe": 63.38
+        },
+        {
+          "month": "2026-08",
+          "price": 120.58,
+          "eps_at_time": 2.0046,
+          "pe": 60.15
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 61.77,
+        "median_pe": 61.77,
+        "stdev_pe": 1.62,
+        "min_pe": 60.15,
+        "max_pe": 63.38,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 60.15,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:35.946294"
+    },
+    "DIS": {
+      "ticker": "DIS",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 96.19,
+          "eps_at_time": 1.5135,
+          "pe": 63.56
+        },
+        {
+          "month": "2026-08",
+          "price": 107.32,
+          "eps_at_time": 1.5135,
+          "pe": 70.91
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 67.23,
+        "median_pe": 67.23,
+        "stdev_pe": 3.67,
+        "min_pe": 63.56,
+        "max_pe": 70.91,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 70.91,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.951009"
+    },
+    "DVA": {
+      "ticker": "DVA",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 240.09,
+          "eps_at_time": 4.0156,
+          "pe": 59.79
+        },
+        {
+          "month": "2026-08",
+          "price": 175.24,
+          "eps_at_time": 4.0156,
+          "pe": 43.64
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 51.72,
+        "median_pe": 51.72,
+        "stdev_pe": 8.07,
+        "min_pe": 43.64,
+        "max_pe": 59.79,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 43.64,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:35.955934"
+    },
+    "EC": {
+      "ticker": "EC",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 16.77,
+          "eps_at_time": 1407.979,
+          "pe": 0.01
+        },
+        {
+          "month": "2026-08",
+          "price": 17.65,
+          "eps_at_time": 1407.979,
+          "pe": 0.01
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 0.01,
+        "median_pe": 0.01,
+        "stdev_pe": 0.0,
+        "min_pe": 0.01,
+        "max_pe": 0.01,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 0.01,
+        "signal": "fair"
+      },
+      "calculation_date": "2026-08-21T04:09:35.961461"
+    },
+    "EPAM": {
+      "ticker": "EPAM",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 105.56,
+          "eps_at_time": 1.9702,
+          "pe": 53.58
+        },
+        {
+          "month": "2026-08",
+          "price": 106.76,
+          "eps_at_time": 1.9702,
+          "pe": 54.19
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 53.88,
+        "median_pe": 53.88,
+        "stdev_pe": 0.3,
+        "min_pe": 53.58,
+        "max_pe": 54.19,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 54.19,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.966823"
+    },
+    "GPN": {
+      "ticker": "GPN",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 84.08,
+          "eps_at_time": 0.048,
+          "pe": 1750.93
+        },
+        {
+          "month": "2026-08",
+          "price": 92.28,
+          "eps_at_time": 0.048,
+          "pe": 1921.69
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 1836.31,
+        "median_pe": 1836.31,
+        "stdev_pe": 85.38,
+        "min_pe": 1750.93,
+        "max_pe": 1921.69,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 1921.69,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.978972"
+    },
+    "HSY": {
+      "ticker": "HSY",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 175.05,
+          "eps_at_time": 2.2573,
+          "pe": 77.55
+        },
+        {
+          "month": "2026-08",
+          "price": 188.31,
+          "eps_at_time": 2.2573,
+          "pe": 83.42
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 80.48,
+        "median_pe": 80.48,
+        "stdev_pe": 2.94,
+        "min_pe": 77.55,
+        "max_pe": 83.42,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 83.42,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.988499"
+    },
+    "LW": {
+      "ticker": "LW",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 52.55,
+          "eps_at_time": 0.7942,
+          "pe": 66.17
+        },
+        {
+          "month": "2026-08",
+          "price": 53.47,
+          "eps_at_time": 0.7942,
+          "pe": 67.33
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 66.75,
+        "median_pe": 66.75,
+        "stdev_pe": 0.58,
+        "min_pe": 66.17,
+        "max_pe": 67.33,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 67.33,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.993142"
+    },
+    "MA": {
+      "ticker": "MA",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 573.1,
+          "eps_at_time": 4.9694,
+          "pe": 115.33
+        },
+        {
+          "month": "2026-08",
+          "price": 573.85,
+          "eps_at_time": 4.9694,
+          "pe": 115.48
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 115.41,
+        "median_pe": 115.41,
+        "stdev_pe": 0.08,
+        "min_pe": 115.33,
+        "max_pe": 115.48,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 115.48,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:35.997616"
+    },
+    "MMM": {
+      "ticker": "MMM",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 176.28,
+          "eps_at_time": 1.786,
+          "pe": 98.7
+        },
+        {
+          "month": "2026-08",
+          "price": 178.09,
+          "eps_at_time": 1.786,
+          "pe": 99.72
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 99.21,
+        "median_pe": 99.21,
+        "stdev_pe": 0.51,
+        "min_pe": 98.7,
+        "max_pe": 99.72,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 99.72,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:36.003521"
+    },
+    "MNSO": {
+      "ticker": "MNSO",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 13.0,
+          "eps_at_time": 4.7821,
+          "pe": 2.72
+        },
+        {
+          "month": "2026-08",
+          "price": 11.13,
+          "eps_at_time": 4.7821,
+          "pe": 2.33
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 2.53,
+        "median_pe": 2.53,
+        "stdev_pe": 0.2,
+        "min_pe": 2.33,
+        "max_pe": 2.72,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 2.33,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:36.008650"
+    },
+    "NKE": {
+      "ticker": "NKE",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 41.71,
+          "eps_at_time": 0.7209,
+          "pe": 57.86
+        },
+        {
+          "month": "2026-08",
+          "price": 40.21,
+          "eps_at_time": 0.7209,
+          "pe": 55.78
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 56.82,
+        "median_pe": 56.82,
+        "stdev_pe": 1.04,
+        "min_pe": 55.78,
+        "max_pe": 57.86,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 55.78,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:36.020030"
+    },
+    "NOW": {
+      "ticker": "NOW",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 111.23,
+          "eps_at_time": 0.2882,
+          "pe": 385.95
+        },
+        {
+          "month": "2026-08",
+          "price": 129.75,
+          "eps_at_time": 0.2882,
+          "pe": 450.21
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 418.08,
+        "median_pe": 418.08,
+        "stdev_pe": 32.13,
+        "min_pe": 385.95,
+        "max_pe": 450.21,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 450.21,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:36.026697"
+    },
+    "NU": {
+      "ticker": "NU",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 14.33,
+          "eps_at_time": 0.1776,
+          "pe": 80.69
+        },
+        {
+          "month": "2026-08",
+          "price": 14.21,
+          "eps_at_time": 0.1776,
+          "pe": 80.01
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 80.35,
+        "median_pe": 80.35,
+        "stdev_pe": 0.34,
+        "min_pe": 80.01,
+        "max_pe": 80.69,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 80.01,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:36.033299"
+    },
+    "NVO": {
+      "ticker": "NVO",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 47.08,
+          "eps_at_time": 4.714,
+          "pe": 9.99
+        },
+        {
+          "month": "2026-08",
+          "price": 46.14,
+          "eps_at_time": 4.714,
+          "pe": 9.79
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 9.89,
+        "median_pe": 9.89,
+        "stdev_pe": 0.1,
+        "min_pe": 9.79,
+        "max_pe": 9.99,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 9.79,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:36.039998"
+    },
+    "ONON": {
+      "ticker": "ONON",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 36.24,
+          "eps_at_time": 0.1999,
+          "pe": 181.29
+        },
+        {
+          "month": "2026-08",
+          "price": 29.9,
+          "eps_at_time": 0.1999,
+          "pe": 149.57
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 165.43,
+        "median_pe": 165.43,
+        "stdev_pe": 15.86,
+        "min_pe": 149.57,
+        "max_pe": 181.29,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 149.57,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:36.052720"
+    },
+    "ORCL": {
+      "ticker": "ORCL",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 129.87,
+          "eps_at_time": 1.4487,
+          "pe": 89.65
+        },
+        {
+          "month": "2026-08",
+          "price": 142.07,
+          "eps_at_time": 1.4487,
+          "pe": 98.07
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 93.86,
+        "median_pe": 93.86,
+        "stdev_pe": 4.21,
+        "min_pe": 89.65,
+        "max_pe": 98.07,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 98.07,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:36.057208"
+    },
+    "OSCR": {
+      "ticker": "OSCR",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 31.22,
+          "eps_at_time": 1.0851,
+          "pe": 28.77
+        },
+        {
+          "month": "2026-08",
+          "price": 31.57,
+          "eps_at_time": 1.0851,
+          "pe": 29.09
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 28.93,
+        "median_pe": 28.93,
+        "stdev_pe": 0.16,
+        "min_pe": 28.77,
+        "max_pe": 29.09,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 29.09,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:36.061763"
+    },
+    "OXY": {
+      "ticker": "OXY",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 57.07,
+          "eps_at_time": 2.7732,
+          "pe": 20.58
+        },
+        {
+          "month": "2026-08",
+          "price": 61.52,
+          "eps_at_time": 2.7732,
+          "pe": 22.18
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 21.38,
+        "median_pe": 21.38,
+        "stdev_pe": 0.8,
+        "min_pe": 20.58,
+        "max_pe": 22.18,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 22.18,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:36.066136"
+    },
+    "PAGS": {
+      "ticker": "PAGS",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 9.64,
+          "eps_at_time": 0.3724,
+          "pe": 25.88
+        },
+        {
+          "month": "2026-08",
+          "price": 8.44,
+          "eps_at_time": 0.3724,
+          "pe": 22.66
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 24.27,
+        "median_pe": 24.27,
+        "stdev_pe": 1.61,
+        "min_pe": 22.66,
+        "max_pe": 25.88,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 22.66,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:36.070589"
+    },
+    "PATH": {
+      "ticker": "PATH",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 12.76,
+          "eps_at_time": 0.0427,
+          "pe": 299.0
+        },
+        {
+          "month": "2026-08",
+          "price": 15.92,
+          "eps_at_time": 0.0427,
+          "pe": 373.05
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 336.02,
+        "median_pe": 336.02,
+        "stdev_pe": 37.03,
+        "min_pe": 299.0,
+        "max_pe": 373.05,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 373.05,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:36.074485"
+    },
+    "SAP": {
+      "ticker": "SAP",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 183.62,
+          "eps_at_time": 1.8698,
+          "pe": 98.2
+        },
+        {
+          "month": "2026-08",
+          "price": 217.09,
+          "eps_at_time": 1.8698,
+          "pe": 116.1
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 107.15,
+        "median_pe": 107.15,
+        "stdev_pe": 8.95,
+        "min_pe": 98.2,
+        "max_pe": 116.1,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 116.1,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:36.082880"
+    },
+    "SE": {
+      "ticker": "SE",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 106.74,
+          "eps_at_time": 0.6727,
+          "pe": 158.68
+        },
+        {
+          "month": "2026-08",
+          "price": 117.24,
+          "eps_at_time": 0.6727,
+          "pe": 174.29
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 166.49,
+        "median_pe": 166.49,
+        "stdev_pe": 7.8,
+        "min_pe": 158.68,
+        "max_pe": 174.29,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 174.29,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:36.088131"
+    },
+    "SHAK": {
+      "ticker": "SHAK",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 62.75,
+          "eps_at_time": 0.3745,
+          "pe": 167.54
+        },
+        {
+          "month": "2026-08",
+          "price": 73.85,
+          "eps_at_time": 0.3745,
+          "pe": 197.18
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 182.36,
+        "median_pe": 182.36,
+        "stdev_pe": 14.82,
+        "min_pe": 167.54,
+        "max_pe": 197.18,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 197.18,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:36.092463"
+    },
+    "SQM": {
+      "ticker": "SQM",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 67.06,
+          "eps_at_time": 1373.0889,
+          "pe": 0.05
+        },
+        {
+          "month": "2026-08",
+          "price": 78.45,
+          "eps_at_time": 1373.0889,
+          "pe": 0.06
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 0.06,
+        "median_pe": 0.06,
+        "stdev_pe": 0.0,
+        "min_pe": 0.05,
+        "max_pe": 0.06,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 0.06,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:36.103853"
+    },
+    "TGT": {
+      "ticker": "TGT",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 144.49,
+          "eps_at_time": 1.7135,
+          "pe": 84.33
+        },
+        {
+          "month": "2026-08",
+          "price": 158.25,
+          "eps_at_time": 1.7135,
+          "pe": 92.36
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 88.34,
+        "median_pe": 88.34,
+        "stdev_pe": 4.02,
+        "min_pe": 84.33,
+        "max_pe": 92.36,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 92.36,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:36.109988"
+    },
+    "TSM": {
+      "ticker": "TSM",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 404.25,
+          "eps_at_time": 152.4251,
+          "pe": 2.65
+        },
+        {
+          "month": "2026-08",
+          "price": 416.0,
+          "eps_at_time": 152.4251,
+          "pe": 2.73
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 2.69,
+        "median_pe": 2.69,
+        "stdev_pe": 0.04,
+        "min_pe": 2.65,
+        "max_pe": 2.73,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 2.73,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:36.115669"
+    },
+    "UBER": {
+      "ticker": "UBER",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 70.36,
+          "eps_at_time": 1.1677,
+          "pe": 60.26
+        },
+        {
+          "month": "2026-08",
+          "price": 78.55,
+          "eps_at_time": 1.1677,
+          "pe": 67.27
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 63.77,
+        "median_pe": 63.77,
+        "stdev_pe": 3.5,
+        "min_pe": 60.26,
+        "max_pe": 67.27,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 67.27,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:36.120134"
+    },
+    "UNH": {
+      "ticker": "UNH",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 414.4,
+          "eps_at_time": 6.9011,
+          "pe": 60.05
+        },
+        {
+          "month": "2026-08",
+          "price": 384.85,
+          "eps_at_time": 6.9011,
+          "pe": 55.77
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 57.91,
+        "median_pe": 57.91,
+        "stdev_pe": 2.14,
+        "min_pe": 55.77,
+        "max_pe": 60.05,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 55.77,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:36.125297"
+    },
+    "VEEV": {
+      "ticker": "VEEV",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 203.78,
+          "eps_at_time": 1.572,
+          "pe": 129.63
+        },
+        {
+          "month": "2026-08",
+          "price": 250.53,
+          "eps_at_time": 1.572,
+          "pe": 159.37
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 144.5,
+        "median_pe": 144.5,
+        "stdev_pe": 14.87,
+        "min_pe": 129.63,
+        "max_pe": 159.37,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 159.37,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:36.130461"
+    },
+    "WSM": {
+      "ticker": "WSM",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 228.66,
+          "eps_at_time": 1.9543,
+          "pe": 117.0
+        },
+        {
+          "month": "2026-08",
+          "price": 235.7,
+          "eps_at_time": 1.9543,
+          "pe": 120.61
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 118.81,
+        "median_pe": 118.81,
+        "stdev_pe": 1.8,
+        "min_pe": 117.0,
+        "max_pe": 120.61,
+        "n_months": 2,
+        "pct_5y": 100.0,
+        "current_pe": 120.61,
+        "signal": "expensive"
+      },
+      "calculation_date": "2026-08-21T04:09:36.135554"
+    },
+    "ZTS": {
+      "ticker": "ZTS",
+      "pe_history_5y": [
+        {
+          "month": "2026-07",
+          "price": 77.29,
+          "eps_at_time": 1.6543,
+          "pe": 46.72
+        },
+        {
+          "month": "2026-08",
+          "price": 75.02,
+          "eps_at_time": 1.6543,
+          "pe": 45.35
+        }
+      ],
+      "stats_5y": {
+        "mean_pe": 46.03,
+        "median_pe": 46.03,
+        "stdev_pe": 0.68,
+        "min_pe": 45.35,
+        "max_pe": 46.72,
+        "n_months": 2,
+        "pct_5y": 50.0,
+        "current_pe": 45.35,
+        "signal": "cheap"
+      },
+      "calculation_date": "2026-08-21T04:09:36.140653"
+    }
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "summary": {
+    "as_of": "2026-08-21",
+    "generated_at": "2026-08-21T03:24:27.647483",
+    "type": "post_cierre",
+    "total_tickers": 119,
+    "asset_types": {
+      "stock": 108,
+      "etf": 11
+    },
+    "n_alerts": 67,
+    "n_with_price_data": 103
+  },
+  "alerts": [
+    {
+      "ticker": "KER.PA",
+      "type": "Oversold",
+      "asset_type": "stock",
+      "price": 250.6,
+      "rsi": 26.6017
+    },
+    {
+      "ticker": "BIDU",
+      "type": "Oversold",
+      "asset_type": "stock",
+      "price": 91.97,
+      "rsi": 16.6551
+    },
+    {
+      "ticker": "JD",
+      "type": "Oversold",
+      "asset_type": "stock",
+      "price": 29.41,
+      "rsi": 25.3425
+    },
+    {
+      "ticker": "MNST",
+      "type": "Oversold",
+      "asset_type": "stock",
+      "price": 47.49,
+      "rsi": 8.826
+    },
+    {
+      "ticker": "STNE",
+      "type": "Oversold",
+      "asset_type": "stock",
+      "price": 9.16,
+      "rsi": 17.945
+    },
+    {
+      "ticker": "ABEV",
+      "type": "Oversold",
+      "asset_type": "stock",
+      "price": 2.83,
+      "rsi": 16.6667
+    },
+    {
+      "ticker": "CVS",
+      "type": "Oversold",
+      "asset_type": "stock",
+      "price": 93.65,
+      "rsi": 25.2525
+    },
+    {
+      "ticker": "DVA",
+      "type": "Oversold",
+      "asset_type": "stock",
+      "price": 175.24,
+      "rsi": 10.2489
+    },
+    {
+      "ticker": "MNSO",
+      "type": "Oversold",
+      "asset_type": "stock",
+      "price": 11.13,
+      "rsi": 21.7523
+    },
+    {
+      "ticker": "PAGS",
+      "type": "Oversold",
+      "asset_type": "stock",
+      "price": 8.44,
+      "rsi": 14.7059
+    },
+    {
+      "ticker": "UNH",
+      "type": "Oversold",
+      "asset_type": "stock",
+      "price": 384.85,
+      "rsi": 26.6329
+    },
+    {
+      "ticker": "PUM.DE",
+      "type": "Oversold",
+      "asset_type": "stock",
+      "price": 25.06,
+      "rsi": 18.8776
+    },
+    {
+      "ticker": "ABNB",
+      "type": "Overbought",
+      "asset_type": "stock",
+      "price": 185.0,
+      "rsi": 76.7369
+    },
+    {
+      "ticker": "INTU",
+      "type": "Overbought",
+      "asset_type": "stock",
+      "price": 361.87,
+      "rsi": 71.2234
+    },
+    {
+      "ticker": "NFLX",
+      "type": "Overbought",
+      "asset_type": "stock",
+      "price": 80.14,
+      "rsi": 73.1466
+    },
+    {
+      "ticker": "PYPL",
+      "type": "Overbought",
+      "asset_type": "stock",
+      "price": 62.3,
+      "rsi": 74.637
+    },
+    {
+      "ticker": "TEAM",
+      "type": "Overbought",
+      "asset_type": "stock",
+      "price": 174.91,
+      "rsi": 88.6986
+    },
+    {
+      "ticker": "TSLA",
+      "type": "Overbought",
+      "asset_type": "stock",
+      "price": 345.13,
+      "rsi": 70.4485
+    },
+    {
+      "ticker": "WDAY",
+      "type": "Overbought",
+      "asset_type": "stock",
+      "price": 197.32,
+      "rsi": 70.3881
+    },
+    {
+      "ticker": "WIX",
+      "type": "Overbought",
+      "asset_type": "stock",
+      "price": 82.39,
+      "rsi": 75.7143
+    },
+    {
+      "ticker": "CRCL",
+      "type": "Overbought",
+      "asset_type": "stock",
+      "price": 83.66,
+      "rsi": 77.0914
+    },
+    {
+      "ticker": "DIS",
+      "type": "Overbought",
+      "asset_type": "stock",
+      "price": 107.32,
+      "rsi": 75.3994
+    },
+    {
+      "ticker": "HSY",
+      "type": "Overbought",
+      "asset_type": "stock",
+      "price": 188.31,
+      "rsi": 74.3571
+    },
+    {
+      "ticker": "MP",
+      "type": "Overbought",
+      "asset_type": "stock",
+      "price": 55.04,
+      "rsi": 78.2555
+    },
+    {
+      "ticker": "NOW",
+      "type": "Overbought",
+      "asset_type": "stock",
+      "price": 129.75,
+      "rsi": 70.7344
+    },
+    {
+      "ticker": "PATH",
+      "type": "Overbought",
+      "asset_type": "stock",
+      "price": 15.92,
+      "rsi": 73.0994
+    },
+    {
+      "ticker": "PFE",
+      "type": "Overbought",
+      "asset_type": "stock",
+      "price": 27.79,
+      "rsi": 76.834
+    },
+    {
+      "ticker": "SAP",
+      "type": "Overbought",
+      "asset_type": "stock",
+      "price": 217.09,
+      "rsi": 85.2985
+    },
+    {
+      "ticker": "SHAK",
+      "type": "Overbought",
+      "asset_type": "stock",
+      "price": 73.85,
+      "rsi": 70.5708
+    },
+    {
+      "ticker": "SQM",
+      "type": "Overbought",
+      "asset_type": "stock",
+      "price": 78.45,
+      "rsi": 83.7182
+    },
+    {
+      "ticker": "TGT",
+      "type": "Overbought",
+      "asset_type": "stock",
+      "price": 158.25,
+      "rsi": 73.8889
+    },
+    {
+      "ticker": "VEEV",
+      "type": "Overbought",
+      "asset_type": "stock",
+      "price": 250.53,
+      "rsi": 80.6397
+    },
+    {
+      "ticker": "ABNB",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 185.0,
+      "rsi": 76.7369
+    },
+    {
+      "ticker": "BKNG",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 209.87,
+      "rsi": 68.8179
+    },
+    {
+      "ticker": "COIN",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 172.35,
+      "rsi": 69.6846
+    },
+    {
+      "ticker": "DOCU",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 62.28,
+      "rsi": 67.2534
+    },
+    {
+      "ticker": "EXPE",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 324.17,
+      "rsi": 66.6856
+    },
+    {
+      "ticker": "FIVE",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 236.31,
+      "rsi": 65.0055
+    },
+    {
+      "ticker": "INTU",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 361.87,
+      "rsi": 71.2234
+    },
+    {
+      "ticker": "MDB",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 420.37,
+      "rsi": 68.7288
+    },
+    {
+      "ticker": "NFLX",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 80.14,
+      "rsi": 73.1466
+    },
+    {
+      "ticker": "NVDA",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 216.85,
+      "rsi": 67.3566
+    },
+    {
+      "ticker": "PYPL",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 62.3,
+      "rsi": 74.637
+    },
+    {
+      "ticker": "TEAM",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 174.91,
+      "rsi": 88.6986
+    },
+    {
+      "ticker": "TSLA",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 345.13,
+      "rsi": 70.4485
+    },
+    {
+      "ticker": "WDAY",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 197.32,
+      "rsi": 70.3881
+    },
+    {
+      "ticker": "WIX",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 82.39,
+      "rsi": 75.7143
+    },
+    {
+      "ticker": "CRCL",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 83.66,
+      "rsi": 77.0914
+    },
+    {
+      "ticker": "CRM",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 205.43,
+      "rsi": 66.6408
+    },
+    {
+      "ticker": "DIS",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 107.32,
+      "rsi": 75.3994
+    },
+    {
+      "ticker": "GPN",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 92.28,
+      "rsi": 68.3527
+    },
+    {
+      "ticker": "HSY",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 188.31,
+      "rsi": 74.3571
+    },
+    {
+      "ticker": "MP",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 55.04,
+      "rsi": 78.2555
+    },
+    {
+      "ticker": "NOW",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 129.75,
+      "rsi": 70.7344
+    },
+    {
+      "ticker": "OXY",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 61.52,
+      "rsi": 65.9498
+    },
+    {
+      "ticker": "PATH",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 15.92,
+      "rsi": 73.0994
+    },
+    {
+      "ticker": "PFE",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 27.79,
+      "rsi": 76.834
+    },
+    {
+      "ticker": "SAP",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 217.09,
+      "rsi": 85.2985
+    },
+    {
+      "ticker": "SHAK",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 73.85,
+      "rsi": 70.5708
+    },
+    {
+      "ticker": "SQM",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 78.45,
+      "rsi": 83.7182
+    },
+    {
+      "ticker": "TGT",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 158.25,
+      "rsi": 73.8889
+    },
+    {
+      "ticker": "UBER",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 78.55,
+      "rsi": 66.5455
+    },
+    {
+      "ticker": "VEEV",
+      "type": "TP_Agotamiento",
+      "asset_type": "stock",
+      "price": 250.53,
+      "rsi": 80.6397
+    },
+    {
+      "ticker": "MNSO",
+      "type": "BUY_ZONE",
+      "asset_type": "stock",
+      "price": 11.13,
+      "rsi": 21.7523
+    },
+    {
+      "ticker": "HIMS",
+      "type": "REB",
+      "asset_type": "stock",
+      "price": 31.86,
+      "rsi": 60.895
+    },
+    {
+      "ticker": "MARA",
+      "type": "REB",
+      "asset_type": "stock",
+      "price": 11.15,
+      "rsi": 48.7275
+    },
+    {
+      "ticker": "RIOT",
+      "type": "REB",
+      "asset_type": "stock",
+      "price": 20.98,
+      "rsi": 54.05
+    }
+  ],
+  "links": {
+    "snapshot": "data/snapshots/historical/post_cierre_2026-08-21.csv",
+    "fundamentals": "data/fundamentals/current_full.csv",
+    "pe_5y": "data/fundamentals/historical/annual_pe/ticker_pe_historical.json",
+    "ia_report_md": "data/ia_reports/historical/post_cierre_2026-08-21/report.md"
+  }
+}

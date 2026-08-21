@@ -1,0 +1,13 @@
+{
+  "etfs": [
+    {
+      "symbol": "TLT",
+      "price": 81.66,
+      "change": 0.31,
+      "change_pct": "0.3811",
+      "volume": 25037129,
+      "date": "2026-08-18"
+    }
+  ],
+  "crypto": []
+}
