@@ -1,0 +1,38 @@
+{
+  "version": "2.0",
+  "previous_version": "1.0 (v7 bot, 94 cols)",
+  "release_date": "2026-08-21",
+  "schema": {
+    "daily": 107,
+    "weekly": 107,
+    "monthly": 102,
+    "snapshot": 107
+  },
+  "breaking_changes": [
+    "Daily: 94 → 107 cols (+13, sin 4 intermedias BB)",
+    "Snapshot: 91 → 107 cols (+16)"
+  ],
+  "new_columns": [
+    "Risk_Score (107)",
+    "Current_PB (96)",
+    "Current_EV_EBITDA (97)",
+    "Current_EV_Sales (98)",
+    "Current_FCF_Yield (99)",
+    "Market_Cap (100)",
+    "High_52W (38)",
+    "Low_52W (39)",
+    "Dist_SMA_20_pct (34)",
+    "Dist_SMA_50_pct (35)",
+    "Ret_1 (40)",
+    "Ret_5 (41)",
+    "Ret_20 (42)",
+    "Gross_Margin (92)",
+    "Operating_Margin (93)",
+    "EBITDA_Margin (94)"
+  ],
+  "removed_columns": [
+    "Exchange (en meta/tickers.csv)",
+    "Name (en meta/tickers.csv)",
+    "BB_Mid, BB_Std, BB_Upper, BB_Lower (intermedias)"
+  ]
+}
