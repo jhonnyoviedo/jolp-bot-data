@@ -10,6 +10,11 @@
     "calls_per_minute": 50,
     "sleep_between_calls_sec": 1.2
   },
-  "last_run": "2026-08-22T12:00:00Z",
-  "tickers": {}
+  "last_run": "2026-08-22T16:27:51.041152",
+  "tickers": {
+    "AAPL": {
+      "last_fetch_prices": "2026-08-22T16:27:09.849211Z",
+      "last_fetch_annual": "2026-08-22T16:27:51.041130Z"
+    }
+  }
 }
